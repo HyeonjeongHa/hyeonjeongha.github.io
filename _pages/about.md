@@ -25,7 +25,7 @@ My primary research interest includes:
 
 
 # 🔥 News
-- *2024.08*: &nbsp;🤘🤘 Excited to start my Ph.D. program at UIUC! 
+- *2024.08*: &nbsp;🤘🤘 Excited to start my Ph.D. program at **UIUC**! 
 - *2023.09*: &nbsp;🎉🎉 Two paper accepted to **NeurIPS 2023 Conference** 
 - *2023.06*: &nbsp;🎉🎉 One paper accepted to **ICML 2023 AdvML-Frontiers' Workshop** 
 - *2022.08*: &nbsp;🎉🎉 Two papers accepted to **NeurIPS 2022 ML Safety Workshop**
