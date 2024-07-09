@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hyeonjeong Ha (하현정)"
+  name             : "Hyeonjeong Ha"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : 
   location         : "Urbana-Champaign, US"
   employer         :
   pubmed           : 
