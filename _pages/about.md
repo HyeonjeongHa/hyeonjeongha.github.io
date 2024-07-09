@@ -54,9 +54,9 @@ Minseon Kim, **Hyeonjeong Ha**, Sung Ju Hwang \
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educations
-- *2024.08 - Present*, Ph.D in Computer Science, <a href="https://blender.cs.illinois.edu/" style="color: #7289da; text-decoration: none;">**UIUC**</a>.
-- *2022.02 - 2024.02*, M.S. in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**KAIST**</a>.
-- *2017.02 - 2022.02*, B.S. in Computer Science (major) and Bio & Brain Engineering (minor), <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**KAIST**</a>.
+- *2024.08 - Present*, Ph.D in Computer Science, <a href="https://blender.cs.illinois.edu/" style="color: #7289da; text-decoration: none;">UIUC</a>.
+- *2022.02 - 2024.02*, M.S. in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">KAIST</a>.
+- *2017.02 - 2022.02*, B.S. in Computer Science (major) and Bio & Brain Engineering (minor), <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">KAIST</a>.
 
 <!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
