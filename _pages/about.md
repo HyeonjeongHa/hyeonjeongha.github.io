@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,42 +17,56 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am an incoming PhD student at <a href="https://blender.cs.illinois.edu/" style="color: #7289da; text-decoration: none;">Blender Lab</a> at University of Illinois, Urbana-Champaign (UIUC), currently advised by Prof. <a href="https://blender.cs.illinois.edu/hengji.html" style="color: #7289da; text-decoration: none;">Heng Ji</a>. I obtained my Master's from Graduate School of AI at KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Prof. Sung Ju Hwang</a>. If you interested in collaboriting with me on research projects, please contact me! Here is my <a href="https://drive.google.com/file/d/1S27MAnuRzRSeIH-4auYwrRUaKY5VsH_D/view?usp=sharing" style="color: #7289da; text-decoration:none">**CV**</a>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My primary research interest includes:
+- Large Language Models
+- Data-efficient Machine-learning
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08*: &nbsp;🤘🤘 Excited to start my Ph.D. program at UIUC! 
+- *2023.09*: &nbsp;🎉🎉 Two paper accepted to **NeurIPS 2023 Conference** 
+- *2023.06*: &nbsp;🎉🎉 One paper accepted to **ICML 2023 AdvML-Frontiers' Workshop** 
+- *2022.08*: &nbsp;🎉🎉 Two papers accepted to **NeurIPS 2022 ML Safety Workshop**
 
 # 📝 Publications 
+- <font size="3">Generalizable Lightweight Proxy for Robust NAS against Diverse Perturbations</font> \
+[[paper]](https://arxiv.org/abs/2306.05031) \
+**Hyeonjeong Ha**, Minseon Kim*, Sung Ju Hwang (\*: equal contribution)  \
+<span style="color:purple">**NeurIPS**</span> 2023 \
+<span style="color:purple">**ICML**</span> 2023 The 2ND New Frontiers in Adversarial Machine Learning Workshop
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- <font size="3">Effective Targeted Attacks for Adversarial Self-Supervised Learning</font> \
+[[paper]](https://arxiv.org/abs/2210.10482) \
+Minseon Kim, **Hyeonjeong Ha**, Sooel Son, Sung Ju Hwang \
+<span style="color:purple">**NeurIPS**</span> 2023
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- <font size="3">Few-shot Transferable Robust Representation Learning via Bilevel Attacks</font> \
+[[paper]](https://arxiv.org/abs/2210.10485) \
+Minseon Kim, **Hyeonjeong Ha**, Sung Ju Hwang \
+<span style="color:purple">**NeurIPS**</span> 2022 ML Safety Workshop
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
+<!--# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08 - Present*, Ph.D in Computer Science, <a href="https://blender.cs.illinois.edu/" style="color: #7289da; text-decoration: none;">**UIUC**</a>.
+- *2022.02 - 2024.02*, M.S. in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**KAIST**</a>.
+- *2017.02 - 2022.02*, B.S. in Computer Science (major) and Bio & Brain Engineering (minor), <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**KAIST**</a>.
 
-# 💬 Invited Talks
+<!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work Experience
+- *2024.02 - 2024.07*, Full-time Employee at [Samsung Research](https://developers.naver.com/main/), Language Intelligence Team, Seoul, South Korea. 
+- *2020.09 - 2021.02*, Developer Intern at [NAVER](https://developers.naver.com/main/), Seongnam, South Korea.
+- *2020.06 - 2020.08*, Undergraduate Research Intern at [KIXLAB](https://www.kixlab.org/), KAIST, Daejeon, South Korea. Prof: [Juho Kim](https://juhokim.com/)
+- *2019.06 - 2019.12*, Developer Intern at [H2K](https://www.sojunghangeul.com/home/main), Daejeon, South Korea.
+
+# 👩‍💻 Academic Service
+- *Reviewer*: ICML (2024, 2023), NeurIPS (2023)
