@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming PhD student at <a href="https://blender.cs.illinois.edu/" style="color: #7289da; text-decoration: none;">Blender Lab</a> at University of Illinois, Urbana-Champaign (UIUC), currently advised by Prof. <a href="https://blender.cs.illinois.edu/hengji.html" style="color: #7289da; text-decoration: none;">Heng Ji</a>. I obtained my Master's from Graduate School of AI at KAIST, under the supervision of Prof. <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a>. If you interested in collaboriting with me on research projects, please contact me! Here is my <a href="https://drive.google.com/file/d/1S27MAnuRzRSeIH-4auYwrRUaKY5VsH_D/view?usp=sharing" style="color: #7289da; text-decoration:none">CV</a>.
+I am a PhD student at <a href="https://blender.cs.illinois.edu/" style="color: #7289da; text-decoration: none;">Blender Lab</a> at University of Illinois, Urbana-Champaign (UIUC), currently advised by Prof. <a href="https://blender.cs.illinois.edu/hengji.html" style="color: #7289da; text-decoration: none;">Heng Ji</a>. I obtained my Master's from the Graduate School of AI at KAIST, under the supervision of Prof. <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a>. If you are interested in collaborating with me on research projects, please contact me! Here is my <a href="https://drive.google.com/file/d/1S27MAnuRzRSeIH-4auYwrRUaKY5VsH_D/view?usp=sharing" style="color: #7289da; text-decoration:none">CV</a>.
 
 My primary research interest includes:
 - Large Language Models
@@ -33,7 +33,7 @@ My primary research interest includes:
 # 📝 Publications 
 - <font size="3">Generalizable Lightweight Proxy for Robust NAS against Diverse Perturbations</font> 
 [[paper]](https://arxiv.org/abs/2306.05031) \
-**Hyeonjeong Ha**, Minseon Kim*, Sung Ju Hwang (\*: equal contribution)  \
+**Hyeonjeong Ha***, Minseon Kim*, Sung Ju Hwang (\*: equal contribution)  \
 <span style="color:purple">**NeurIPS**</span> 2023 \
 <span style="color:purple">**ICML**</span> 2023 The 2ND New Frontiers in Adversarial Machine Learning Workshop
 
@@ -46,7 +46,7 @@ Minseon Kim, **Hyeonjeong Ha**, Sooel Son, Sung Ju Hwang \
 
 - <font size="3">Few-shot Transferable Robust Representation Learning via Bilevel Attacks</font> 
 [[paper]](https://arxiv.org/abs/2210.10485) \
-Minseon Kim, **Hyeonjeong Ha**, Sung Ju Hwang \
+**Hyeonjeong Ha***, Minseon Kim*, Sung Ju Hwang \
 <span style="color:purple">**NeurIPS**</span> 2022 ML Safety Workshop
 
 <!--# 🎖 Honors and Awards
@@ -63,7 +63,7 @@ Minseon Kim, **Hyeonjeong Ha**, Sung Ju Hwang \
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Work Experience
-- *2024.02 - 2024.07*, Full-time Employee at  <a href="https://developers.naver.com/main/" style="color: #7289da; text-decoration: none;">Samsung Research</a>, Language Intelligence Team, Seoul, South Korea. 
+- *2024.02 - 2024.07*, Full-time Employee at  <a href="https://research.samsung.com/" style="color: #7289da; text-decoration: none;">Samsung Research</a>, Language Intelligence Team, Seoul, South Korea. 
 - *2020.09 - 2021.02*, Developer Intern at <a href="https://developers.naver.com/main/" style="color: #7289da; text-decoration: none;">NAVER</a>, Seongnam, South Korea.
 - *2020.06 - 2020.08*, Undergraduate Research Intern at <a href="https://www.kixlab.org/" style="color: #7289da; text-decoration: none;">KIXLAB</a>, KAIST, Daejeon, South Korea. Prof: <a href="https://juhokim.com/" style="color: #7289da; text-decoration: none;">Juho Kim</a>
 - *2019.06 - 2019.12*, Developer Intern at <a href="https://www.sojunghangeul.com/home/main" style="color: #7289da; text-decoration: none;">H2K</a>, Daejeon, South Korea.
