@@ -33,7 +33,7 @@ My primary research interest includes:
 # 📝 Publications 
 - <font size="3">Generalizable Lightweight Proxy for Robust NAS against Diverse Perturbations</font> 
 [[paper]](https://arxiv.org/abs/2306.05031) \
-**Hyeonjeong Ha***, Minseon Kim*, Sung Ju Hwang (\*: equal contribution)  \
+**Hyeonjeong Ha** *, Minseon Kim *, Sung Ju Hwang (\*: equal contribution)  \
 <span style="color:purple">**NeurIPS**</span> 2023 \
 <span style="color:purple">**ICML**</span> 2023 The 2ND New Frontiers in Adversarial Machine Learning Workshop
 
@@ -46,7 +46,7 @@ Minseon Kim, **Hyeonjeong Ha**, Sooel Son, Sung Ju Hwang \
 
 - <font size="3">Few-shot Transferable Robust Representation Learning via Bilevel Attacks</font> 
 [[paper]](https://arxiv.org/abs/2210.10485) \
-**Hyeonjeong Ha***, Minseon Kim*, Sung Ju Hwang \
+**Hyeonjeong Ha** *, Minseon Kim *, Sung Ju Hwang \
 <span style="color:purple">**NeurIPS**</span> 2022 ML Safety Workshop
 
 <!--# 🎖 Honors and Awards
