@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at <a href="https://blender.cs.illinois.edu/" style="color: #7289da; text-decoration: none;">Blender Lab</a> at University of Illinois, Urbana-Champaign (UIUC), currently advised by Prof. <a href="https://blender.cs.illinois.edu/hengji.html" style="color: #7289da; text-decoration: none;">Heng Ji</a>. I obtained my Master's from the Graduate School of AI at KAIST, under the supervision of Prof. <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a>. If you are interested in collaborating with me on research projects, please contact me! Here is my <a href="https://drive.google.com/file/d/14vKEveMrT1V8q6su8qLqKxPBD954Z_Vo/view?usp=sharing" style="color: #7289da; text-decoration:none">CV</a>.
+I am a PhD student at <a href="https://blender.cs.illinois.edu/" style="color: #7289da; text-decoration: none;">Blender Lab</a> at University of Illinois, Urbana-Champaign (UIUC), currently advised by Prof. <a href="https://blender.cs.illinois.edu/hengji.html" style="color: #7289da; text-decoration: none;">Heng Ji</a>. I obtained my Master's from the Graduate School of AI at KAIST, under the supervision of Prof. <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a>. If you are interested in collaborating with me on research projects, please contact me! Here is my <a href="https://drive.google.com/file/d/18gYgGrLSQ_QmTycCSQMDlI51O6vyd5Ye/view?usp=sharing" style="color: #7289da; text-decoration:none">CV</a>.
 
 My primary research interest includes:
-- Large Language Models
-- Data-efficient Machine-learning
+- Model Interpretability & Robustness
+- Vision Langauge Models (VLMs)
+- Efficient Machine-learning
 
 
 # 🔥 News
