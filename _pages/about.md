@@ -34,14 +34,14 @@ My primary research interest includes:
 # 📝 Publications 
 - <font size="3">MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Poisoning Attacks</font> 
 [[paper]](https://arxiv.org/abs/2502.17832) \
-**Hyeonjeong Ha** *, Qiusi Zhan*, Jeonghwan Kim, Dimitrios Bralios, Saikrishna Sanniboina, Nanyun Peng, Kai-wei Chang, Heng Ji (\*: equal contribution)  \
-<span style="color:purple">preprint</span> \
+**Hyeonjeong Ha** *, Qiusi Zhan *, Jeonghwan Kim, Dimitrios Bralios, Saikrishna Sanniboina, Nanyun Peng, Kai-wei Chang, Heng Ji (\*: equal contribution)  \
+<span style="color:purple">preprint</span> 
 
 
 - <font size="3">SYNTHIA: Novel Concept Design with Affordance Composition</font> 
 [[paper]](https://arxiv.org/abs/2502.17793) \
 Xiaomeng Jin *, **Hyeonjeong Ha** *, Jeonghwan Kim, Jiateng Liu, Zhenhailong Wang, Khanh Duy Nguyen, Ansel Blume, Nanyun Peng, Kai-wei Chang, Heng Ji (\*: equal contribution)  \
-<span style="color:purple">preprint</span> \
+<span style="color:purple">preprint</span> 
 
 
 - <font size="3">Generalizable Lightweight Proxy for Robust NAS against Diverse Perturbations</font> 
