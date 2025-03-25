@@ -26,6 +26,7 @@ My primary research interest includes:
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 Excited to start Machine Learning Research Internship at **Apple** from Summer 2025!
 - *2024.08*: &nbsp;🤘🤘 Excited to start my Ph.D. program at **UIUC**! 
 - *2023.09*: &nbsp;🎉🎉 Two paper accepted to **NeurIPS 2023 Conference** 
 - *2023.06*: &nbsp;🎉🎉 One paper accepted to **ICML 2023 AdvML-Frontiers' Workshop** 
@@ -76,7 +77,8 @@ Minseon Kim, **Hyeonjeong Ha**, Sooel Son, Sung Ju Hwang \
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Work Experience
-- *2024.02 - 2024.07*, Full-time Employee at  <a href="https://research.samsung.com/" style="color: #7289da; text-decoration: none;">Samsung Research</a>, Language Intelligence Team, Seoul, South Korea. 
+- *2025.05 - 2025.08*, Machine Learning Research Intern at **Apple**, Data & Machine Learning Innovation team, Seattle, WA, USA.
+- *2024.02 - 2024.07*, Full-time Employee at <a href="https://research.samsung.com/" style="color: #7289da; text-decoration: none;">Samsung Research</a>, Language Intelligence Team, Seoul, South Korea. 
 - *2020.09 - 2021.02*, Developer Intern at <a href="https://developers.naver.com/main/" style="color: #7289da; text-decoration: none;">NAVER</a>, Seongnam, South Korea.
 - *2020.06 - 2020.08*, Undergraduate Research Intern at <a href="https://www.kixlab.org/" style="color: #7289da; text-decoration: none;">KIXLAB</a>, KAIST, Daejeon, South Korea. Prof: <a href="https://juhokim.com/" style="color: #7289da; text-decoration: none;">Juho Kim</a>
 - *2019.06 - 2019.12*, Developer Intern at <a href="https://www.sojunghangeul.com/home/main" style="color: #7289da; text-decoration: none;">H2K</a>, Daejeon, South Korea.
