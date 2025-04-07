@@ -41,7 +41,7 @@ My primary research interest includes:
 
 - <font size="3">SYNTHIA: Novel Concept Design with Affordance Composition</font> 
 [[paper]](https://arxiv.org/abs/2502.17793) \
-Xiaomeng Jin *, **Hyeonjeong Ha** *, Jeonghwan Kim, Jiateng Liu, Zhenhailong Wang, Khanh Duy Nguyen, Ansel Blume, Nanyun Peng, Kai-wei Chang, Heng Ji (\*: equal contribution)  \
+**Hyeonjeong Ha** *, Xiaomeng Jin *, Jeonghwan Kim, Jiateng Liu, Zhenhailong Wang, Khanh Duy Nguyen, Ansel Blume, Nanyun Peng, Kai-wei Chang, Heng Ji (\*: equal contribution)  \
 <span style="color:purple">preprint</span> 
 
 
