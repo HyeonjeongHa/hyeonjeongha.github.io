@@ -60,7 +60,7 @@ Minseon Kim, **Hyeonjeong Ha**, Sooel Son, Sung Ju Hwang \
 
 - <font size="3">Few-shot Transferable Robust Representation Learning via Bilevel Attacks</font> 
 [[paper]](https://arxiv.org/abs/2210.10485) \
-**Hyeonjeong Ha** *, Minseon Kim *, Sung Ju Hwang \
+Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang \
 <span style="color:purple">**NeurIPS**</span> 2022 ML Safety Workshop
 
 <!--# 🎖 Honors and Awards
