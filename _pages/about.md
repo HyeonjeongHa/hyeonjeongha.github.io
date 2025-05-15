@@ -26,6 +26,7 @@ My primary research interest includes:
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper accepted to **ACL 2025** 
 - *2025.01*: &nbsp;🎉🎉 Excited to start Machine Learning Research Internship at **Apple** from Summer 2025!
 - *2024.08*: &nbsp;🤘🤘 Excited to start my Ph.D. program at **UIUC**! 
 - *2023.09*: &nbsp;🎉🎉 Two paper accepted to **NeurIPS 2023 Conference** 
@@ -33,15 +34,14 @@ My primary research interest includes:
 - *2022.08*: &nbsp;🎉🎉 Two papers accepted to **NeurIPS 2022 ML Safety Workshop**
 
 # 📝 Publications 
-- <font size="3">MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Poisoning Attacks</font> 
-[[paper]](https://arxiv.org/abs/2502.17832) \
-**Hyeonjeong Ha** *, Qiusi Zhan *, Jeonghwan Kim, Dimitrios Bralios, Saikrishna Sanniboina, Nanyun Peng, Kai-wei Chang, Heng Ji (\*: equal contribution)  \
-<span style="color:purple">preprint</span> 
-
-
 - <font size="3">SYNTHIA: Novel Concept Design with Affordance Composition</font> 
 [[paper]](https://arxiv.org/abs/2502.17793) \
 **Hyeonjeong Ha** *, Xiaomeng Jin *, Jeonghwan Kim, Jiateng Liu, Zhenhailong Wang, Khanh Duy Nguyen, Ansel Blume, Nanyun Peng, Kai-wei Chang, Heng Ji (\*: equal contribution)  \
+<span style="color:purple">ACL 2025 (Main)</span>
+
+- <font size="3">MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Poisoning Attacks</font> 
+[[paper]](https://arxiv.org/abs/2502.17832) \
+**Hyeonjeong Ha** *, Qiusi Zhan *, Jeonghwan Kim, Dimitrios Bralios, Saikrishna Sanniboina, Nanyun Peng, Kai-wei Chang, Heng Ji (\*: equal contribution)  \
 <span style="color:purple">preprint</span> 
 
 - <font size="3">Must Read: A Systematic Survey of Computational Persuasion</font> 
