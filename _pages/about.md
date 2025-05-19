@@ -44,10 +44,26 @@ My primary research interest includes:
 **Hyeonjeong Ha** *, Qiusi Zhan *, Jeonghwan Kim, Dimitrios Bralios, Saikrishna Sanniboina, Nanyun Peng, Kai-wei Chang, Heng Ji (\*: equal contribution)  \
 <span style="color:purple">preprint</span> 
 
+- <font size="3">BEATing Safety: Backdoor Attacks on Vision-Driven Embodied Agents via Contrastive Trigger Learning</font> 
+Qiusi Zhan *, **Hyeonjeong Ha** *, Rui Yang, Sirui Xu, Hanyang Chen, Liangyan Gui, Yu-Xiong Wang, Huan Zhang, Heng Ji, Daniel Kang  \
+<span style="color:purple">Under Review</span> 
+
+- <font size="3">PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding</font> 
+Ansel Blume, Jeonghwan Kim, **Hyeonjeong Ha**, Elen Chatikyan, Xiaomeng Jin, Khanh Duy Nguyen, Nanyun Peng, Kai-Wei Chang, Derek Hoiem, Heng Ji  \
+<span style="color:purple">Under Review</span>
+
+- <font size="3">Energy-Based Transformers are Scalable Learners and Thinkers</font> 
+Alexi Gladstone, Ganesh Nanduru, Md Mofijul Islam, Peixuan Han, **Hyeonjeong Ha**, Aman Chadha, Yilun Du, Heng Ji, Jundong Li, Tariq Iqbal  \
+<span style="color:purple">Under Review</span>
+
+- <font size="3">Constructive Distortion: Multimodal LLMs with Test-Time Image Warping</font> 
+Dwip Dalal, Gautam Vashishtha, Utkarsh Mishra, Jeonghwan Kim, Madhav Kanda, **Hyeonjeong Ha**, Svetlana Lazebnik, Heng Ji, Unnat Jain  \
+<span style="color:purple">Under Review</span>
+
 - <font size="3">Must Read: A Systematic Survey of Computational Persuasion</font> 
 [[paper]](https://www.arxiv.org/abs/2505.07775) \
 Nimet Beyza Bozdag, Shuhaib Mehri, Xiaocheng Yang, **Hyeonjeong Ha**, Zirui Cheng, Esin Durmus, Jiaxuan You, Heng Ji, Gokhan Tur, Dilek Hakkani-Tür  \
-<span style="color:purple">preprint</span> 
+<span style="color:purple">preprint</span>
 
 - <font size="3">Generalizable Lightweight Proxy for Robust NAS against Diverse Perturbations</font> 
 [[paper]](https://arxiv.org/abs/2306.05031) \
