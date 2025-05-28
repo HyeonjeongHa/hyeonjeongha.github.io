@@ -48,7 +48,8 @@ My primary research interest includes:
 Qiusi Zhan *, **Hyeonjeong Ha** *, Rui Yang, Sirui Xu, Hanyang Chen, Liangyan Gui, Yu-Xiong Wang, Huan Zhang, Heng Ji, Daniel Kang  \
 <span style="color:purple">Under Review</span> 
 
-- <font size="3">PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding</font> 
+- <font size="3">PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding</font>
+[[paper]](https://arxiv.org/abs/2505.20759) \
 Ansel Blume, Jeonghwan Kim, **Hyeonjeong Ha**, Elen Chatikyan, Xiaomeng Jin, Khanh Duy Nguyen, Nanyun Peng, Kai-Wei Chang, Derek Hoiem, Heng Ji  \
 <span style="color:purple">Under Review</span>
 
