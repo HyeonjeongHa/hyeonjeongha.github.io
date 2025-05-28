@@ -45,7 +45,7 @@ My primary research interest includes:
 <span style="color:purple">preprint</span> 
 
 - <font size="3">BEATing Safety: Backdoor Attacks on Vision-Driven Embodied Agents via Contrastive Trigger Learning</font> 
-Qiusi Zhan *, **Hyeonjeong Ha** *, Rui Yang, Sirui Xu, Hanyang Chen, Liangyan Gui, Yu-Xiong Wang, Huan Zhang, Heng Ji, Daniel Kang  \
+Qiusi Zhan *, **Hyeonjeong Ha** *, Rui Yang, Sirui Xu, Hanyang Chen, Liangyan Gui, Yu-Xiong Wang, Huan Zhang, Heng Ji, Daniel Kang (\*: equal contribution) \
 <span style="color:purple">Under Review</span> 
 
 - <font size="3">PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding</font>
