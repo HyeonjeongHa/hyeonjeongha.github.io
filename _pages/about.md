@@ -59,7 +59,7 @@ Ansel Blume, Jeonghwan Kim, **Hyeonjeong Ha**, Elen Chatikyan, Xiaomeng Jin, Kha
 <span style="color:purple">Under Review</span>
 
 - <font size="3">Energy-Based Transformers are Scalable Learners and Thinkers</font>
-[[paper]] (https://arxiv.org/abs/2507.02092) [[blog]] (https://alexiglad.github.io/blog/2025/ebt/)
+- [[paper]] (https://arxiv.org/abs/2507.02092) [[blog]] (https://alexiglad.github.io/blog/2025/ebt/) \
 Alexi Gladstone, Ganesh Nanduru, Md Mofijul Islam, Peixuan Han, **Hyeonjeong Ha**, Aman Chadha, Yilun Du, Heng Ji, Jundong Li, Tariq Iqbal  \
 <span style="color:purple">Under Review</span>
 
