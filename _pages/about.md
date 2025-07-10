@@ -35,7 +35,7 @@ My primary research interest includes:
 
 # 📝 Publications 
 - <font size="3">SYNTHIA: Novel Concept Design with Affordance Composition</font> 
-[[paper]](https://arxiv.org/abs/2502.17793) \
+[[paper]](https://arxiv.org/abs/2502.17793) [[page]](https://synthia-uiuc.github.io/synthia.github.io/)\
 **Hyeonjeong Ha** *, Xiaomeng Jin *, Jeonghwan Kim, Jiateng Liu, Zhenhailong Wang, Khanh Duy Nguyen, Ansel Blume, Nanyun Peng, Kai-wei Chang, Heng Ji (\*: equal contribution)  \
 <span style="color:purple">ACL 2025 (Main)</span>
 
@@ -48,12 +48,18 @@ My primary research interest includes:
 Qiusi Zhan *, **Hyeonjeong Ha** *, Rui Yang, Sirui Xu, Hanyang Chen, Liangyan Gui, Yu-Xiong Wang, Huan Zhang, Heng Ji, Daniel Kang (\*: equal contribution) \
 <span style="color:purple">Under Review</span> 
 
+- <font size="3">PAPO: Perception-Aware Policy Optimization for Multimodal Reasoning</font>
+[[paper]](https://arxiv.org/abs/2507.06448)  [[page]](https://mikewangwzhl.github.io/PAPO/)\
+Zhenhailong Wang, Xuehang Guo, Sofia Stoica, Haiyang Xu, Hongru Wang, **Hyeonjeong Ha**, Xiusi Chen, Yangyi Chen, Ming Yan, Fei Huang, Heng Ji  \
+<span style="color:purple">Preprint</span>
+
 - <font size="3">PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding</font>
 [[paper]](https://arxiv.org/abs/2505.20759) \
 Ansel Blume, Jeonghwan Kim, **Hyeonjeong Ha**, Elen Chatikyan, Xiaomeng Jin, Khanh Duy Nguyen, Nanyun Peng, Kai-Wei Chang, Derek Hoiem, Heng Ji  \
 <span style="color:purple">Under Review</span>
 
-- <font size="3">Energy-Based Transformers are Scalable Learners and Thinkers</font> 
+- <font size="3">Energy-Based Transformers are Scalable Learners and Thinkers</font>
+[[paper]] (https://arxiv.org/abs/2507.02092) [[blog]] (https://alexiglad.github.io/blog/2025/ebt/)
 Alexi Gladstone, Ganesh Nanduru, Md Mofijul Islam, Peixuan Han, **Hyeonjeong Ha**, Aman Chadha, Yilun Du, Heng Ji, Jundong Li, Tariq Iqbal  \
 <span style="color:purple">Under Review</span>
 
