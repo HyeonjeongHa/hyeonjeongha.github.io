@@ -44,9 +44,9 @@ My primary research interest includes:
 **Hyeonjeong Ha** *, Qiusi Zhan *, Jeonghwan Kim, Dimitrios Bralios, Saikrishna Sanniboina, Nanyun Peng, Kai-wei Chang, Heng Ji (\*: equal contribution)  \
 <span style="color:purple">preprint</span> 
 
-- <font size="3">BEATing Safety: Backdoor Attacks on Vision-Driven Embodied Agents via Contrastive Trigger Learning</font> 
+<!--- <font size="3">BEATing Safety: Backdoor Attacks on Vision-Driven Embodied Agents via Contrastive Trigger Learning</font> 
 Qiusi Zhan *, **Hyeonjeong Ha** *, Rui Yang, Sirui Xu, Hanyang Chen, Liangyan Gui, Yu-Xiong Wang, Huan Zhang, Heng Ji, Daniel Kang (\*: equal contribution) \
-<span style="color:purple">Under Review</span> 
+<span style="color:purple">Under Review</span> -->
 
 - <font size="3">PAPO: Perception-Aware Policy Optimization for Multimodal Reasoning</font>
 [[paper]](https://arxiv.org/abs/2507.06448)  [[page]](https://mikewangwzhl.github.io/PAPO/)\
