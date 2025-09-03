@@ -26,6 +26,7 @@ My primary research interest includes:
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 Awarded the **Capital One Illinois Center for Generative AI Safety, Knowledge Systems, and Cyber Security (ASKS) Fellowship Program**!
 - *2025.05*: &nbsp;🎉🎉 One paper accepted to **ACL 2025** 
 - *2025.01*: &nbsp;🎉🎉 Excited to start Machine Learning Research Internship at **Apple** from Summer 2025!
 - *2024.08*: &nbsp;🤘🤘 Excited to start my Ph.D. program at **UIUC**! 
@@ -104,7 +105,7 @@ Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution) \
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Work Experience
-- *2025.05 - 2025.08*, Machine Learning Research Intern at **Apple**, Data & Machine Learning Innovation team, Seattle, WA, USA.
+- *2025.05 - 2025.08*, Machine Learning Research Intern at **Apple**, AI/ML Data & Machine Learning Innovation team, Seattle, WA, USA.
 - *2024.02 - 2024.07*, Full-time Employee at <a href="https://research.samsung.com/" style="color: #7289da; text-decoration: none;">Samsung Research</a>, Language Intelligence Team, Seoul, South Korea. 
 - *2020.09 - 2021.02*, Developer Intern at <a href="https://developers.naver.com/main/" style="color: #7289da; text-decoration: none;">NAVER</a>, Seongnam, South Korea.
 - *2020.06 - 2020.08*, Undergraduate Research Intern at <a href="https://www.kixlab.org/" style="color: #7289da; text-decoration: none;">KIXLAB</a>, KAIST, Daejeon, South Korea. Prof: <a href="https://juhokim.com/" style="color: #7289da; text-decoration: none;">Juho Kim</a>
