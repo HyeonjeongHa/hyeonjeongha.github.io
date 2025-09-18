@@ -26,6 +26,7 @@ My primary research interest includes:
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper accepted to **NeurIPS 2025 (Spotlight)** 
 - *2025.08*: &nbsp;🎉🎉 Awarded the **Capital One Illinois Center for Generative AI Safety, Knowledge Systems, and Cyber Security (ASKS) Fellowship Program**!
 - *2025.05*: &nbsp;🎉🎉 One paper accepted to **ACL 2025** 
 - *2025.01*: &nbsp;🎉🎉 Excited to start Machine Learning Research Internship at **Apple** from Summer 2025!
@@ -35,6 +36,11 @@ My primary research interest includes:
 - *2022.08*: &nbsp;🎉🎉 Two papers accepted to **NeurIPS 2022 ML Safety Workshop**
 
 # 📝 Publications 
+- <font size="3">PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding</font>
+[[paper]](https://arxiv.org/abs/2505.20759) \
+Ansel Blume, Jeonghwan Kim, **Hyeonjeong Ha**, Elen Chatikyan, Xiaomeng Jin, Khanh Duy Nguyen, Nanyun Peng, Kai-Wei Chang, Derek Hoiem, Heng Ji  \
+<span style="color:purple">NeurIPS 2025</span> <span style="color:red">(Spotlight)</span>
+
 - <font size="3">SYNTHIA: Novel Concept Design with Affordance Composition</font> 
 [[paper]](https://arxiv.org/abs/2502.17793) [[page]](https://synthia-uiuc.github.io/synthia.github.io/)\
 **Hyeonjeong Ha** *, Xiaomeng Jin *, Jeonghwan Kim, Jiateng Liu, Zhenhailong Wang, Khanh Duy Nguyen, Ansel Blume, Nanyun Peng, Kai-wei Chang, Heng Ji (\*: equal contribution)  \
@@ -52,21 +58,16 @@ Qiusi Zhan *, **Hyeonjeong Ha** *, Rui Yang, Sirui Xu, Hanyang Chen, Liangyan Gu
 - <font size="3">PAPO: Perception-Aware Policy Optimization for Multimodal Reasoning</font>
 [[paper]](https://arxiv.org/abs/2507.06448)  [[page]](https://mikewangwzhl.github.io/PAPO/)\
 Zhenhailong Wang, Xuehang Guo, Sofia Stoica, Haiyang Xu, Hongru Wang, **Hyeonjeong Ha**, Xiusi Chen, Yangyi Chen, Ming Yan, Fei Huang, Heng Ji  \
-<span style="color:purple">Preprint</span>
-
-- <font size="3">PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding</font>
-[[paper]](https://arxiv.org/abs/2505.20759) \
-Ansel Blume, Jeonghwan Kim, **Hyeonjeong Ha**, Elen Chatikyan, Xiaomeng Jin, Khanh Duy Nguyen, Nanyun Peng, Kai-Wei Chang, Derek Hoiem, Heng Ji  \
-<span style="color:purple">Under Review</span>
+<span style="color:purple">preprint</span>
 
 - <font size="3">Energy-Based Transformers are Scalable Learners and Thinkers</font>
 [[paper]](https://arxiv.org/abs/2507.02092) [[blog]](https://alexiglad.github.io/blog/2025/ebt/) \
 Alexi Gladstone, Ganesh Nanduru, Md Mofijul Islam, Peixuan Han, **Hyeonjeong Ha**, Aman Chadha, Yilun Du, Heng Ji, Jundong Li, Tariq Iqbal  \
-<span style="color:purple">Under Review</span>
+<span style="color:purple">preprint</span>
 
 - <font size="3">Constructive Distortion: Multimodal LLMs with Test-Time Image Warping</font> 
 Dwip Dalal, Gautam Vashishtha, Utkarsh Mishra, Jeonghwan Kim, Madhav Kanda, **Hyeonjeong Ha**, Svetlana Lazebnik, Heng Ji, Unnat Jain  \
-<span style="color:purple">Under Review</span>
+<span style="color:purple">preprint</span>
 
 - <font size="3">Must Read: A Systematic Survey of Computational Persuasion</font> 
 [[paper]](https://www.arxiv.org/abs/2505.07775) \
@@ -79,12 +80,10 @@ Nimet Beyza Bozdag, Shuhaib Mehri, Xiaocheng Yang, **Hyeonjeong Ha**, Zirui Chen
 <span style="color:purple">**NeurIPS**</span> 2023 \
 <span style="color:purple">**ICML**</span> 2023 The 2ND New Frontiers in Adversarial Machine Learning Workshop
 
-
 - <font size="3">Effective Targeted Attacks for Adversarial Self-Supervised Learning</font>
 [[paper]](https://arxiv.org/abs/2210.10482) \
 Minseon Kim, **Hyeonjeong Ha**, Sooel Son, Sung Ju Hwang \
 <span style="color:purple">**NeurIPS**</span> 2023
-
 
 - <font size="3">Few-shot Transferable Robust Representation Learning via Bilevel Attacks</font> 
 [[paper]](https://arxiv.org/abs/2210.10485) \
