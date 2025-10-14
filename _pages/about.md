@@ -66,6 +66,7 @@ Alexi Gladstone, Ganesh Nanduru, Md Mofijul Islam, Peixuan Han, **Hyeonjeong Ha*
 <span style="color:purple">preprint</span>
 
 - <font size="3">Constructive Distortion: Multimodal LLMs with Test-Time Image Warping</font> 
+[[paper]](https://arxiv.org/html/2510.09741v1) \
 Dwip Dalal, Gautam Vashishtha, Utkarsh Mishra, Jeonghwan Kim, Madhav Kanda, **Hyeonjeong Ha**, Svetlana Lazebnik, Heng Ji, Unnat Jain  \
 <span style="color:purple">preprint</span>
 
