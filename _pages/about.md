@@ -51,9 +51,9 @@ Ansel Blume, Jeonghwan Kim, **Hyeonjeong Ha**, Elen Chatikyan, Xiaomeng Jin, Kha
 **Hyeonjeong Ha** *, Qiusi Zhan *, Jeonghwan Kim, Dimitrios Bralios, Saikrishna Sanniboina, Nanyun Peng, Kai-wei Chang, Heng Ji (\*: equal contribution)  \
 <span style="color:purple">preprint</span> 
 
-- <font size="3">Visual Backdoor Attacks on MLLM Embodied Decision Making via Contrastive Trigger Learning</font> 
-Qiusi Zhan *, **Hyeonjeong Ha** *, Rui Yang, Sirui Xu, Hanyang Chen, Liangyan Gui, Yu-Xiong Wang, Huan Zhang, Heng Ji, Daniel Kang (\*: equal contribution) \
+- <font size="3">Visual Backdoor Attacks on MLLM Embodied Decision Making via Contrastive Trigger Learning</font>
 [[paper]](https://arxiv.org/abs/2510.27623) [[page]](https://zqs1943.github.io/BEAT/)\
+Qiusi Zhan *, **Hyeonjeong Ha** *, Rui Yang, Sirui Xu, Hanyang Chen, Liangyan Gui, Yu-Xiong Wang, Huan Zhang, Heng Ji, Daniel Kang (\*: equal contribution) \
 <span style="color:purple">preprint</span> 
 
 - <font size="3">PAPO: Perception-Aware Policy Optimization for Multimodal Reasoning</font>
