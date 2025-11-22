@@ -1,0 +1,77 @@
+papers:
+  - title: "PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding"
+    image: "/assets/publications/2025_partonomy/image.png"
+    paper_pdf: "https://arxiv.org/pdf/2505.20759"
+    authors: "Ansel Blume, Jeonghwan Kim, <b>Hyeonjeong Ha</b>, Elen Chatikyan, Xiaomeng Jin, Khanh Duy Nguyen, Nanyun Peng, Kai-Wei Chang, Derek Hoiem, Heng Ji"
+    venue: "NeurIPS 2025 (Spotlight)"
+    selected: y
+
+  - title: "SYNTHIA: Novel Concept Design with Affordance Composition"
+    image: "/assets/publications/2025_search_and_detect/image.png"
+    paper_pdf: "https://arxiv.org/abs/2502.17793"
+    authors: "<b>Hyeonjeong Ha</b> *, Xiaomeng Jin *, Jeonghwan Kim, Jiateng Liu, Zhenhailong Wang, Khanh Duy Nguyen, Ansel Blume, Nanyun Peng, Kai-wei Chang, Heng Ji"
+    venue: "ACL 2025 Main"
+    selected: y
+
+  - title: "MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Poisoning Attacks"
+    image: "/assets/publications/2025_synthia/image.png"
+    paper_pdf: "https://arxiv.org/abs/2502.17832"
+    authors: "<b>Hyeonjeong Ha</b> *, Qiusi Zhan *, Jeonghwan Kim, Dimitrios Bralios, Saikrishna Sanniboina, Nanyun Peng, Kai-wei Chang, Heng Ji"
+    venue: "UnderReview"
+    selected: y
+
+  - title: "Visual Backdoor Attacks on MLLM Embodied Decision Making via Contrastive Trigger Learning"
+    image: "/assets/publications/2025_infogent/image.png"
+    paper_pdf: "https://arxiv.org/abs/2510.27623"
+    authors: "Qiusi Zhan *, <b>Hyeonjeong Ha</b> *, Rui Yang, Sirui Xu, Hanyang Chen, Liangyan Gui, Yu-Xiong Wang, Huan Zhang, Heng Ji, Daniel Kang"
+    venue: "UnderReview"
+    selected: y
+
+  - title: "PAPO: Perception-Aware Policy Optimization for Multimodal Reasoning"
+    image: "/assets/publications/2025_aloe/image.png"
+    paper_pdf: "https://arxiv.org/abs/2507.06448"
+    authors: "Zhenhailong Wang, Xuehang Guo, Sofia Stoica, Haiyang Xu, Hongru Wang, <b>Hyeonjeong Ha</b>, Xiusi Chen, Yangyi Chen, Ming Yan, Fei Huang, Heng Ji"
+    venue: "UnderReview"
+    selected: y
+
+  - title: "Energy-Based Transformers are Scalable Learners and Thinkers"
+    image: "/assets/publications/2024_finer/image.png"
+    paper_pdf: "https://arxiv.org/abs/2507.02092"
+    authors: "Alexi Gladstone, Ganesh Nanduru, Md Mofijul Islam, Peixuan Han, <b>Hyeonjeong Ha</b>, Aman Chadha, Yilun Du, Heng Ji, Jundong Li, Tariq Iqbal"
+    venue: "UnderReview"
+    selected: y
+
+  - title: "Constructive Distortion: Multimodal LLMs with Test-Time Image Warping"
+    image: "/assets/publications/2024_whysogullible/image.png"
+    paper_pdf: "https://arxiv.org/html/2510.09741v1"
+    authors: "Dwip Dalal, Gautam Vashishtha, Utkarsh Mishra, Jeonghwan Kim, Madhav Kanda, <b>Hyeonjeong Ha</b>, Svetlana Lazebnik, Heng Ji, Unnat Jain"
+    venue: "UnderReview"
+    selected: y
+
+  - title: "Must Read: A Systematic Survey of Computational Persuasion"
+    image: "/assets/publications/2024_armada/image.png"
+    paper_pdf: "https://www.arxiv.org/abs/2505.07775"
+    authors: "Nimet Beyza Bozdag, Shuhaib Mehri, Xiaocheng Yang, <b>Hyeonjeong Ha</b>, Zirui Cheng, Esin Durmus, Jiaxuan You, Heng Ji, Gokhan Tur, Dilek Hakkani-Tür"
+    venue: "UnderReview"
+    selected: y
+
+  - title: "Generalizable Lightweight Proxy for Robust NAS against Diverse Perturbations"
+    image: "/assets/publications/2023_fineprompt/image.png"
+    paper_pdf: "https://arxiv.org/abs/2306.05031"
+    authors: "<b>Hyeonjeong Ha</b> *, Minseon Kim *, Sung Ju Hwang "
+    venue: "NeurIPS 2023, ICML @ 2023 The 2ND New Frontiers in Adversarial Machine Learning Workshop"
+    selected: y
+
+  - title: "Effective Targeted Attacks for Adversarial Self-Supervised Learning"
+    image: "/assets/publications/2022_graph_infused_transformer/image.png"
+    paper_pdf: "https://arxiv.org/abs/2210.10482"
+    authors: "Minseon Kim, <b>Hyeonjeong Ha</b>, Sooel Son, Sung Ju Hwang"
+    venue: "NeurIPS 2023"
+    selected: y
+
+  - title: "Few-shot Transferable Robust Representation Learning via Bilevel Attacks"
+    image: "/assets/publications/2022_exploiting_numerical-contextual/image.png"
+    authors: "Minseon Kim *, <b>Hyeonjeong Ha</b> *, Sung Ju Hwang"
+    venue: "NeurIPS 2022 @ ML Safety Workshop"
+    paper_pdf: "https://arxiv.org/abs/2210.10485"
+    selected: y
