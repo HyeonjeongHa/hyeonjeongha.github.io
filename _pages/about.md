@@ -37,11 +37,10 @@ My primary research interest includes:
 - *2022.08*: &nbsp;🎉🎉 Two papers accepted to **NeurIPS 2022 ML Safety Workshop**
 
 # 📝 Publications 
-
-|   |   |
-|---|---|
+|* equal contribution |  |
+|:-:|:-|
 | <img src="/assets/imgs/partonomy_teaser.png" width="260"> | <strong>PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding</strong><br/><a href="https://arxiv.org/abs/2505.20759">[paper]</a><br/><br/>Ansel Blume, Jeonghwan Kim, <strong>Hyeonjeong Ha</strong>, Elen Chatikyan, Xiaomeng Jin, Khanh Duy Nguyen, Nanyun Peng, Kai-Wei Chang, Derek Hoiem, Heng Ji<br/><br/><span style="color:purple">NeurIPS 2025</span> <span style="color:red">(Spotlight)</span> |
-| <img src="/assets/imgs/synthia_teaser.png" width="260"> | <strong>SYNTHIA: Novel Concept Design with Affordance Composition</strong><br/><a href="https://arxiv.org/abs/2505.20759">[paper]</a><a href="https://synthia-uiuc.github.io/synthia.github.io/">[page]</a><br/><br/><strong>Hyeonjeong Ha</strong>*, Xiaomeng Jin*, Jeonghwan Kim, Jiateng Liu, Zhenhailong Wang, Khanh Duy Nguyen, Ansel Blume, Nanyun Peng, Kai-Wei Chang, Heng Ji <em>(* equal contribution)</em><br/><br/><span style="color:purple">ACL 2025 (Main)</span> |
+| <img src="/assets/imgs/synthia_teaser.png" width="260"> | <strong>SYNTHIA: Novel Concept Design with Affordance Composition</strong><br/><a href="https://arxiv.org/abs/2505.20759">[paper]</a><a href="https://synthia-uiuc.github.io/synthia.github.io/">[page]</a><br/><br/><strong>Hyeonjeong Ha</strong>*, Xiaomeng Jin*, Jeonghwan Kim, Jiateng Liu, Zhenhailong Wang, Khanh Duy Nguyen, Ansel Blume, Nanyun Peng, Kai-Wei Chang, Heng Ji <br/><br/><span style="color:purple">ACL 2025 (Main)</span> |
 <!--
 | <img src="/assets/imgs/mmpoisonrag_teaser.png" width="300" height="150"> | **MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Poisoning Attacks**<br/>[[paper]](https://arxiv.org/abs/2502.17832)<br/>**Hyeonjeong Ha** *, Qiusi Zhan *, Jeonghwan Kim, Dimitrios Bralios, Saikrishna Sanniboina, Nanyun Peng, Kai-wei Chang, Heng Ji (\*: equal contribution)<br/><span style="color:purple">UnderReview</span> |
 | <img src="/assets/imgs/beat_teaser.png" width="300" height="150"> | **Visual Backdoor Attacks on MLLM Embodied Decision Making via Contrastive Trigger Learning**<br/>[[paper]](https://arxiv.org/abs/2510.27623) [[page]](https://zqs1943.github.io/BEAT/)<br/>Qiusi Zhan *, **Hyeonjeong Ha** *, Rui Yang, Sirui Xu, Hanyang Chen, Liangyan Gui, Yu-Xiong Wang, Huan Zhang, Heng Ji, Daniel Kang (\*: equal contribution)<br/><span style="color:purple">UnderReview</span> |
