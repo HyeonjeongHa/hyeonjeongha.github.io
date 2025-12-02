@@ -37,10 +37,162 @@ My primary research interest includes:
 - *2022.08*: &nbsp;🎉🎉 Two papers accepted to **NeurIPS 2022 ML Safety Workshop**
 
 # 📝 Publications 
-|* equal contribution |  |
-|:-:|:-|
-| <img src="/assets/imgs/partonomy_teaser.png" width="260"> | <strong>PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding</strong><br/><a href="https://arxiv.org/abs/2505.20759">[paper]</a><br/><br/>Ansel Blume, Jeonghwan Kim, <strong>Hyeonjeong Ha</strong>, Elen Chatikyan, Xiaomeng Jin, Khanh Duy Nguyen, Nanyun Peng, Kai-Wei Chang, Derek Hoiem, Heng Ji<br/><br/><span style="color:purple">NeurIPS 2025</span> <span style="color:red">(Spotlight)</span> |
-| <img src="/assets/imgs/synthia_teaser.png" width="260"> | <strong>SYNTHIA: Novel Concept Design with Affordance Composition</strong><br/><a href="https://arxiv.org/abs/2505.20759">[paper]</a><a href="https://synthia-uiuc.github.io/synthia.github.io/">[page]</a><br/><br/><strong>Hyeonjeong Ha</strong>*, Xiaomeng Jin*, Jeonghwan Kim, Jiateng Liu, Zhenhailong Wang, Khanh Duy Nguyen, Ansel Blume, Nanyun Peng, Kai-Wei Chang, Heng Ji <br/><br/><span style="color:purple">ACL 2025 (Main)</span> |
+
+<h1>📝 Publications</h1>
+
+<table>
+  <tr>
+    <td style="width:260px; vertical-align:top;">
+      <img src="/assets/imgs/partonomy_teaser.png" width="260">
+    </td>
+    <td style="vertical-align:top;">
+      <strong>PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding</strong><br/>
+      <a href="https://arxiv.org/abs/2505.20759">[paper]</a><br/>
+      Ansel Blume, Jeonghwan Kim, <strong>Hyeonjeong Ha</strong>, Elen Chatikyan, Xiaomeng Jin, 
+      Khanh Duy Nguyen, Nanyun Peng, Kai-Wei Chang, Derek Hoiem, Heng Ji<br/>
+      <span style="color:purple">NeurIPS 2025</span> <span style="color:red">(Spotlight)</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:260px; vertical-align:top;">
+      <img src="/assets/imgs/synthia_teaser.png" width="260">
+    </td>
+    <td style="vertical-align:top;">
+      <strong>SYNTHIA: Novel Concept Design with Affordance Composition</strong><br/>
+      <a href="https://arxiv.org/abs/2505.20759">[paper]</a>
+      <a href="https://synthia-uiuc.github.io/synthia.github.io/">[page]</a><br/>
+      <strong>Hyeonjeong Ha</strong>*, Xiaomeng Jin*, Jeonghwan Kim, Jiateng Liu, Zhenhailong Wang,
+      Khanh Duy Nguyen, Ansel Blume, Nanyun Peng, Kai-Wei Chang, Heng Ji
+      <em>(* equal contribution)</em><br/>
+      <span style="color:purple">ACL 2025 (Main)</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:260px; vertical-align:top;">
+      <img src="/assets/imgs/mmpoisonrag_teaser.png" width="260">
+    </td>
+    <td style="vertical-align:top;">
+      <strong>MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Poisoning Attacks</strong><br/>
+      <a href="https://arxiv.org/abs/2502.17832">[paper]</a><br/>
+      <strong>Hyeonjeong Ha</strong>*, Qiusi Zhan*, Jeonghwan Kim, Dimitrios Bralios, Saikrishna Sanniboina, 
+      Nanyun Peng, Kai-wei Chang, Heng Ji 
+      <em>(* equal contribution)</em><br/>
+      <span style="color:purple">UnderReview</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:260px; vertical-align:top;">
+      <img src="/assets/imgs/beat_teaser.png" width="260">
+    </td>
+    <td style="vertical-align:top;">
+      <strong>Visual Backdoor Attacks on MLLM Embodied Decision Making via Contrastive Trigger Learning</strong><br/>
+      <a href="https://arxiv.org/abs/2510.27623">[paper]</a>
+      <a href="https://zqs1943.github.io/BEAT/">[page]</a><br/>
+      Qiusi Zhan*, <strong>Hyeonjeong Ha</strong>*, Rui Yang, Sirui Xu, Hanyang Chen, Liangyan Gui, 
+      Yu-Xiong Wang, Huan Zhang, Heng Ji, Daniel Kang 
+      <em>(* equal contribution)</em><br/>
+      <span style="color:purple">UnderReview</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:260px; vertical-align:top;">
+      <img src="/assets/imgs/papo_teaser.png" width="260">
+    </td>
+    <td style="vertical-align:top;">
+      <strong>PAPO: Perception-Aware Policy Optimization for Multimodal Reasoning</strong><br/>
+      <a href="https://arxiv.org/abs/2507.06448">[paper]</a>
+      <a href="https://mikewangwzhl.github.io/PAPO/">[page]</a><br/>
+      Zhenhailong Wang, Xuehang Guo, Sofia Stoica, Haiyang Xu, Hongru Wang, 
+      <strong>Hyeonjeong Ha</strong>, Xiusi Chen, Yangyi Chen, Ming Yan, Fei Huang, Heng Ji 
+      <em>(* equal contribution)</em><br/>
+      <span style="color:purple">UnderReview</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:260px; vertical-align:top;">
+      <img src="/assets/imgs/ebwm_teaser.png" width="260">
+    </td>
+    <td style="vertical-align:top;">
+      <strong>Energy-Based Transformers are Scalable Learners and Thinkers</strong><br/>
+      <a href="https://arxiv.org/abs/2507.02092">[paper]</a>
+      <a href="https://alexiglad.github.io/blog/2025/ebt/">[blog]</a><br/>
+      Alexi Gladstone, Ganesh Nanduru, Md Mofijul Islam, Peixuan Han, <strong>Hyeonjeong Ha</strong>, 
+      Aman Chadha, Yilun Du, Heng Ji, Jundong Li, Tariq Iqbal<br/>
+      <span style="color:purple">UnderReview</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:260px; vertical-align:top;">
+      <img src="/assets/imgs/imgwarp_teaser.png" width="260">
+    </td>
+    <td style="vertical-align:top;">
+      <strong>Constructive Distortion: Multimodal LLMs with Test-Time Image Warping</strong><br/>
+      <a href="https://arxiv.org/html/2510.09741v1">[paper]</a><br/>
+      Dwip Dalal, Gautam Vashishtha, Utkarsh Mishra, Jeonghwan Kim, Madhav Kanda, 
+      <strong>Hyeonjeong Ha</strong>, Svetlana Lazebnik, Heng Ji, Unnat Jain<br/>
+      <span style="color:purple">UnderReview</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:260px; vertical-align:top;">
+      <img src="/assets/imgs/mustread_teaser.png" width="260">
+    </td>
+    <td style="vertical-align:top;">
+      <strong>Must Read: A Systematic Survey of Computational Persuasion</strong><br/>
+      <a href="https://www.arxiv.org/abs/2505.07775">[paper]</a><br/>
+      Nimet Beyza Bozdag, Shuhaib Mehri, Xiaocheng Yang, <strong>Hyeonjeong Ha</strong>, Zirui Cheng, 
+      Esin Durmus, Jiaxuan You, Heng Ji, Gokhan Tur, Dilek Hakkani-Tür<br/>
+      <span style="color:purple">UnderReview</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:260px; vertical-align:top;">
+      <img src="/assets/imgs/ronas_teaser.png" width="260">
+    </td>
+    <td style="vertical-align:top;">
+      <strong>Generalizable Lightweight Proxy for Robust NAS against Diverse Perturbations</strong><br/>
+      <a href="https://arxiv.org/abs/2306.05031">[paper]</a><br/>
+      <strong>Hyeonjeong Ha</strong>*, Minseon Kim*, Sung Ju Hwang 
+      <em>(* equal contribution)</em><br/>
+      <span style="color:purple">NeurIPS 2023</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:260px; vertical-align:top;">
+      <img src="/assets/imgs/tasl_teaser.png" width="260">
+    </td>
+    <td style="vertical-align:top;">
+      <strong>Effective Targeted Attacks for Adversarial Self-Supervised Learning</strong><br/>
+      <a href="https://arxiv.org/abs/2210.10482">[paper]</a><br/>
+      Minseon Kim, <strong>Hyeonjeong Ha</strong>, Sooel Son, Sung Ju Hwang<br/>
+      <span style="color:purple">NeurIPS 2023</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:260px; vertical-align:top;">
+      <img src="/assets/imgs/marvl_teaser.png" width="260">
+    </td>
+    <td style="vertical-align:top;">
+      <strong>Few-shot Transferable Robust Representation Learning via Bilevel Attacks</strong><br/>
+      <a href="https://arxiv.org/abs/2210.10485">[paper]</a><br/>
+      Minseon Kim*, <strong>Hyeonjeong Ha</strong>*, Sung Ju Hwang 
+      <em>(* equal contribution)</em><br/>
+      <span style="color:purple">NeurIPS 2022 ML Safety Workshop</span>
+    </td>
+  </tr>
+
+</table>
+
 <!--
 | <img src="/assets/imgs/mmpoisonrag_teaser.png" width="300" height="150"> | **MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Poisoning Attacks**<br/>[[paper]](https://arxiv.org/abs/2502.17832)<br/>**Hyeonjeong Ha** *, Qiusi Zhan *, Jeonghwan Kim, Dimitrios Bralios, Saikrishna Sanniboina, Nanyun Peng, Kai-wei Chang, Heng Ji (\*: equal contribution)<br/><span style="color:purple">UnderReview</span> |
 | <img src="/assets/imgs/beat_teaser.png" width="300" height="150"> | **Visual Backdoor Attacks on MLLM Embodied Decision Making via Contrastive Trigger Learning**<br/>[[paper]](https://arxiv.org/abs/2510.27623) [[page]](https://zqs1943.github.io/BEAT/)<br/>Qiusi Zhan *, **Hyeonjeong Ha** *, Rui Yang, Sirui Xu, Hanyang Chen, Liangyan Gui, Yu-Xiong Wang, Huan Zhang, Heng Ji, Daniel Kang (\*: equal contribution)<br/><span style="color:purple">UnderReview</span> |
@@ -50,8 +202,8 @@ My primary research interest includes:
 | <img src="/assets/imgs/mustread_teaser.png" width="300" height="150"> | **Must Read: A Systematic Survey of Computational Persuasion**<br/>[[paper]](https://www.arxiv.org/abs/2505.07775)<br/>Nimet Beyza Bozdag, Shuhaib Mehri, Xiaocheng Yang, **Hyeonjeong Ha**, Zirui Cheng, Esin Durmus, Jiaxuan You, Heng Ji, Gokhan Tur, Dilek Hakkani-Tür<br/><span style="color:purple">UnderReview</span> |
 | <img src="/assets/imgs/ronas_teaser.png" width="300" height="150"> | **Generalizable Lightweight Proxy for Robust NAS against Diverse Perturbations**<br/>[[paper]](https://arxiv.org/abs/2306.05031)<br/>**Hyeonjeong Ha** *, Minseon Kim *, Sung Ju Hwang (\*: equal contribution)<br/><span style="color:purple">NeurIPS 2023</span> |
 | <img src="/assets/imgs/tasl_teaser.png" width="300" height="150"> | **Effective Targeted Attacks for Adversarial Self-Supervised Learning**<br/>[[paper]](https://arxiv.org/abs/2210.10482)<br/>Minseon Kim, **Hyeonjeong Ha**, Sooel Son, Sung Ju Hwang<br/><span style="color:purple">NeurIPS 2023</span> |
-| <img src="/assets/imgs/marvl_teaser.png" width="300" height="150"> | **Few-shot Transferable Robust Representation Learning via Bilevel Attacks**<br/>[[paper]](https://arxiv.org/abs/2210.10485)<br/>Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution)<br/><span style="color:purple">**NeurIPS**</span> 2022 ML Safety Workshop |-->
-<!--
+| <img src="/assets/imgs/marvl_teaser.png" width="300" height="150"> | **Few-shot Transferable Robust Representation Learning via Bilevel Attacks**<br/>[[paper]](https://arxiv.org/abs/2210.10485)<br/>Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution)<br/><span style="color:purple">**NeurIPS**</span> 2022 ML Safety Workshop |
+
 - <font size="3">PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding</font>
 [[paper]](https://arxiv.org/abs/2505.20759) \
 Ansel Blume, Jeonghwan Kim, **Hyeonjeong Ha**, Elen Chatikyan, Xiaomeng Jin, Khanh Duy Nguyen, Nanyun Peng, Kai-Wei Chang, Derek Hoiem, Heng Ji  \
