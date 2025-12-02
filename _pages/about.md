@@ -37,10 +37,10 @@ My primary research interest includes:
 - *2022.08*: &nbsp;🎉🎉 Two papers accepted to **NeurIPS 2022 ML Safety Workshop**
 
 # 📝 Publications 
-<!--
-| | |
+
+|   |   |
 |---|---|
-| <img src="/assets/imgs/partonomy_teaser.png" width="300" height="150"> | **PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding**<br/>[[paper]](https://arxiv.org/abs/2505.20759)<br/>Ansel Blume, Jeonghwan Kim, **Hyeonjeong Ha**, Elen Chatikyan, Xiaomeng Jin, Khanh Duy Nguyen, Nanyun Peng, Kai-Wei Chang, Derek Hoiem, Heng Ji<br/><span style="color:purple">NeurIPS 2025</span> <span style="color:red">(Spotlight)</span> |
+| <img src="/assets/imgs/partonomy_teaser.png" width="300" height="150"> | **PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding**[[paper]](https://arxiv.org/abs/2505.20759)<br/>Ansel Blume, Jeonghwan Kim, **Hyeonjeong Ha**, Elen Chatikyan, Xiaomeng Jin, Khanh Duy Nguyen, Nanyun Peng, Kai-Wei Chang, Derek Hoiem, Heng Ji<br/><span style="color:purple">NeurIPS 2025</span> <span style="color:red">(Spotlight)</span> |
 | <img src="/assets/imgs/synthia_teaser.png" width="300" height="150"> | **SYNTHIA: Novel Concept Design with Affordance Composition**<br/>[[paper]](https://arxiv.org/abs/2505.20759)[[page]](https://synthia-uiuc.github.io/synthia.github.io/)<br/>**Hyeonjeong Ha** *, Xiaomeng Jin *, Jeonghwan Kim, Jiateng Liu, Zhenhailong Wang, Khanh Duy Nguyen, Ansel Blume, Nanyun Peng, Kai-wei Chang, Heng Ji (\*: equal contribution)<br/><span style="color:purple">ACL 2025 (Main)</span> |
 | <img src="/assets/imgs/mmpoisonrag_teaser.png" width="300" height="150"> | **MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Poisoning Attacks**<br/>[[paper]](https://arxiv.org/abs/2502.17832)<br/>**Hyeonjeong Ha** *, Qiusi Zhan *, Jeonghwan Kim, Dimitrios Bralios, Saikrishna Sanniboina, Nanyun Peng, Kai-wei Chang, Heng Ji (\*: equal contribution)<br/><span style="color:purple">UnderReview</span> |
 | <img src="/assets/imgs/beat_teaser.png" width="300" height="150"> | **Visual Backdoor Attacks on MLLM Embodied Decision Making via Contrastive Trigger Learning**<br/>[[paper]](https://arxiv.org/abs/2510.27623) [[page]](https://zqs1943.github.io/BEAT/)<br/>Qiusi Zhan *, **Hyeonjeong Ha** *, Rui Yang, Sirui Xu, Hanyang Chen, Liangyan Gui, Yu-Xiong Wang, Huan Zhang, Heng Ji, Daniel Kang (\*: equal contribution)<br/><span style="color:purple">UnderReview</span> |
@@ -50,8 +50,8 @@ My primary research interest includes:
 | <img src="/assets/imgs/mustread_teaser.png" width="300" height="150"> | **Must Read: A Systematic Survey of Computational Persuasion**<br/>[[paper]](https://www.arxiv.org/abs/2505.07775)<br/>Nimet Beyza Bozdag, Shuhaib Mehri, Xiaocheng Yang, **Hyeonjeong Ha**, Zirui Cheng, Esin Durmus, Jiaxuan You, Heng Ji, Gokhan Tur, Dilek Hakkani-Tür<br/><span style="color:purple">UnderReview</span> |
 | <img src="/assets/imgs/ronas_teaser.png" width="300" height="150"> | **Generalizable Lightweight Proxy for Robust NAS against Diverse Perturbations**<br/>[[paper]](https://arxiv.org/abs/2306.05031)<br/>**Hyeonjeong Ha** *, Minseon Kim *, Sung Ju Hwang (\*: equal contribution)<br/><span style="color:purple">NeurIPS 2023</span> |
 | <img src="/assets/imgs/tasl_teaser.png" width="300" height="150"> | **Effective Targeted Attacks for Adversarial Self-Supervised Learning**<br/>[[paper]](https://arxiv.org/abs/2210.10482)<br/>Minseon Kim, **Hyeonjeong Ha**, Sooel Son, Sung Ju Hwang<br/><span style="color:purple">NeurIPS 2023</span> |
-| <img src="/assets/imgs/marvl_teaser.png" width="300" height="150"> | **Few-shot Transferable Robust Representation Learning via Bilevel Attacks**<br/>[[paper]](https://arxiv.org/abs/2210.10485)<br/>Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution)<br/><span style="color:purple">**NeurIPS**</span> 2022 ML Safety Workshop |-->
-
+| <img src="/assets/imgs/marvl_teaser.png" width="300" height="150"> | **Few-shot Transferable Robust Representation Learning via Bilevel Attacks**<br/>[[paper]](https://arxiv.org/abs/2210.10485)<br/>Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution)<br/><span style="color:purple">**NeurIPS**</span> 2022 ML Safety Workshop |
+<!--
 - <font size="3">PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding</font>
 [[paper]](https://arxiv.org/abs/2505.20759) \
 Ansel Blume, Jeonghwan Kim, **Hyeonjeong Ha**, Elen Chatikyan, Xiaomeng Jin, Khanh Duy Nguyen, Nanyun Peng, Kai-Wei Chang, Derek Hoiem, Heng Ji  \
@@ -107,7 +107,7 @@ Minseon Kim, **Hyeonjeong Ha**, Sooel Son, Sung Ju Hwang \
 [[paper]](https://arxiv.org/abs/2210.10485) \
 Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution) \
 <span style="color:purple">**NeurIPS**</span> 2022 ML Safety Workshop 
-
+-->
 <!--# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
