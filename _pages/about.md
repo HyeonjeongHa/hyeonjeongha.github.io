@@ -55,7 +55,7 @@ My primary research interest includes:
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/imgs/synthia_teaser.png" width="260">
     </td>
-    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+    <td style="vertical-align:top; border:none; padding:8px 0;">
       <strong>SYNTHIA: Novel Concept Design with Affordance Composition</strong><br/>
       <a href="https://arxiv.org/abs/2505.20759">[paper]</a>
       <a href="https://synthia-uiuc.github.io/synthia.github.io/">[page]</a><br/>
@@ -69,7 +69,7 @@ My primary research interest includes:
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/imgs/mmpoisonrag_teaser.png" width="260">
     </td>
-    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+    <td style="vertical-align:top; border:none; padding:8px 0;">
       <strong>MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Poisoning Attacks</strong><br/>
       <a href="https://arxiv.org/abs/2502.17832">[paper]</a><br/>
       <strong>Hyeonjeong Ha</strong>*, Qiusi Zhan*, Jeonghwan Kim, Dimitrios Bralios, Saikrishna Sanniboina, 
@@ -82,7 +82,7 @@ My primary research interest includes:
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/imgs/beat_teaser.png" width="260">
     </td>
-    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+    <td style="vertical-align:top; border:none; padding:8px 0;">
       <strong>Visual Backdoor Attacks on MLLM Embodied Decision Making via Contrastive Trigger Learning</strong><br/>
       <a href="https://arxiv.org/abs/2510.27623">[paper]</a>
       <a href="https://zqs1943.github.io/BEAT/">[page]</a><br/>
@@ -96,7 +96,7 @@ My primary research interest includes:
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/imgs/papo_teaser.png" width="260">
     </td>
-    <td style="vertical-align:top;">
+    <td style="vertical-align:top; border:none; padding:8px 0;">
       <strong>PAPO: Perception-Aware Policy Optimization for Multimodal Reasoning</strong><br/>
       <a href="https://arxiv.org/abs/2507.06448">[paper]</a>
       <a href="https://mikewangwzhl.github.io/PAPO/">[page]</a><br/>
@@ -110,7 +110,7 @@ My primary research interest includes:
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/imgs/ebwm_teaser.png" width="260">
     </td>
-    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+    <td style="vertical-align:top; border:none; padding:8px 0;">
       <strong>Energy-Based Transformers are Scalable Learners and Thinkers</strong><br/>
       <a href="https://arxiv.org/abs/2507.02092">[paper]</a>
       <a href="https://alexiglad.github.io/blog/2025/ebt/">[blog]</a><br/>
@@ -123,7 +123,7 @@ My primary research interest includes:
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/imgs/imgwarp_teaser.png" width="260">
     </td>
-    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+    <td style="vertical-align:top; border:none; padding:8px 0;">
       <strong>Constructive Distortion: Multimodal LLMs with Test-Time Image Warping</strong><br/>
       <a href="https://arxiv.org/html/2510.09741v1">[paper]</a><br/>
       Dwip Dalal, Gautam Vashishtha, Utkarsh Mishra, Jeonghwan Kim, Madhav Kanda, 
@@ -135,7 +135,7 @@ My primary research interest includes:
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/imgs/mustread_teaser.png" width="260">
     </td>
-    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+    <td style="vertical-align:top; border:none; padding:8px 0;">
       <strong>Must Read: A Systematic Survey of Computational Persuasion</strong><br/>
       <a href="https://www.arxiv.org/abs/2505.07775">[paper]</a><br/>
       Nimet Beyza Bozdag, Shuhaib Mehri, Xiaocheng Yang, <strong>Hyeonjeong Ha</strong>, Zirui Cheng, 
@@ -147,7 +147,7 @@ My primary research interest includes:
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/imgs/ronas_teaser.png" width="260">
     </td>
-    <td style="vertical-align:top;">
+    <td style="vertical-align:top; border:none; padding:8px 0;">
       <strong>Generalizable Lightweight Proxy for Robust NAS against Diverse Perturbations</strong><br/>
       <a href="https://arxiv.org/abs/2306.05031">[paper]</a><br/>
       <strong>Hyeonjeong Ha</strong>*, Minseon Kim*, Sung Ju Hwang 
@@ -159,7 +159,7 @@ My primary research interest includes:
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/imgs/tasl_teaser.png" width="260">
     </td>
-    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+    <td style="vertical-align:top; border:none; padding:8px 0;">
       <strong>Effective Targeted Attacks for Adversarial Self-Supervised Learning</strong><br/>
       <a href="https://arxiv.org/abs/2210.10482">[paper]</a><br/>
       Minseon Kim, <strong>Hyeonjeong Ha</strong>, Sooel Son, Sung Ju Hwang<br/>
@@ -170,7 +170,7 @@ My primary research interest includes:
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/imgs/marvl_teaser.png" width="260">
     </td>
-    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+    <td style="vertical-align:top; border:none; padding:8px 0;">
       <strong>Few-shot Transferable Robust Representation Learning via Bilevel Attacks</strong><br/>
       <a href="https://arxiv.org/abs/2210.10485">[paper]</a><br/>
       Minseon Kim*, <strong>Hyeonjeong Ha</strong>*, Sung Ju Hwang 
