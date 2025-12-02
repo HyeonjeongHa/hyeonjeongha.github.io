@@ -38,8 +38,6 @@ My primary research interest includes:
 
 # 📝 Publications 
 
-<h1>📝 Publications</h1>
-
 <table>
   <tr>
     <td style="width:260px; vertical-align:top;">
@@ -53,7 +51,6 @@ My primary research interest includes:
       <span style="color:purple">NeurIPS 2025</span> <span style="color:red">(Spotlight)</span>
     </td>
   </tr>
-
   <tr>
     <td style="width:260px; vertical-align:top;">
       <img src="/assets/imgs/synthia_teaser.png" width="260">
@@ -68,7 +65,6 @@ My primary research interest includes:
       <span style="color:purple">ACL 2025 (Main)</span>
     </td>
   </tr>
-
   <tr>
     <td style="width:260px; vertical-align:top;">
       <img src="/assets/imgs/mmpoisonrag_teaser.png" width="260">
@@ -82,7 +78,6 @@ My primary research interest includes:
       <span style="color:purple">UnderReview</span>
     </td>
   </tr>
-
   <tr>
     <td style="width:260px; vertical-align:top;">
       <img src="/assets/imgs/beat_teaser.png" width="260">
@@ -97,7 +92,6 @@ My primary research interest includes:
       <span style="color:purple">UnderReview</span>
     </td>
   </tr>
-
   <tr>
     <td style="width:260px; vertical-align:top;">
       <img src="/assets/imgs/papo_teaser.png" width="260">
@@ -112,7 +106,6 @@ My primary research interest includes:
       <span style="color:purple">UnderReview</span>
     </td>
   </tr>
-
   <tr>
     <td style="width:260px; vertical-align:top;">
       <img src="/assets/imgs/ebwm_teaser.png" width="260">
@@ -126,7 +119,6 @@ My primary research interest includes:
       <span style="color:purple">UnderReview</span>
     </td>
   </tr>
-
   <tr>
     <td style="width:260px; vertical-align:top;">
       <img src="/assets/imgs/imgwarp_teaser.png" width="260">
@@ -139,7 +131,6 @@ My primary research interest includes:
       <span style="color:purple">UnderReview</span>
     </td>
   </tr>
-
   <tr>
     <td style="width:260px; vertical-align:top;">
       <img src="/assets/imgs/mustread_teaser.png" width="260">
@@ -152,7 +143,6 @@ My primary research interest includes:
       <span style="color:purple">UnderReview</span>
     </td>
   </tr>
-
   <tr>
     <td style="width:260px; vertical-align:top;">
       <img src="/assets/imgs/ronas_teaser.png" width="260">
@@ -165,7 +155,6 @@ My primary research interest includes:
       <span style="color:purple">NeurIPS 2023</span>
     </td>
   </tr>
-
   <tr>
     <td style="width:260px; vertical-align:top;">
       <img src="/assets/imgs/tasl_teaser.png" width="260">
@@ -177,7 +166,6 @@ My primary research interest includes:
       <span style="color:purple">NeurIPS 2023</span>
     </td>
   </tr>
-
   <tr>
     <td style="width:260px; vertical-align:top;">
       <img src="/assets/imgs/marvl_teaser.png" width="260">
@@ -190,7 +178,6 @@ My primary research interest includes:
       <span style="color:purple">NeurIPS 2022 ML Safety Workshop</span>
     </td>
   </tr>
-
 </table>
 
 <!--
