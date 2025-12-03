@@ -43,7 +43,7 @@ My primary research interest includes:
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/imgs/partonomy_teaser.png" width="260">
     </td>
-    <td style="vertical-align:top; border:none; padding:8px 0;">
+    <td style="vertical-align:top; border:none; padding-left:16px;">
       <strong>PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding</strong><br/>
       <a href="https://arxiv.org/abs/2505.20759">[paper]</a><br/>
       Ansel Blume, Jeonghwan Kim, <strong>Hyeonjeong Ha</strong>, Elen Chatikyan, Xiaomeng Jin, 
