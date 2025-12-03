@@ -280,11 +280,11 @@ Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution) \
     <td style="width:180px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/imgs/samsung_logo.png" width="150">
     </td>
-    <td style="vertical-align:top; border:none; padding-left:16px; width:70%;">
+    <td style="vertical-align:top; border:none; padding-left:16px; width:60%;">
       <strong><a href="https://research.samsung.com/" style="color: #7289da; text-decoration: none;">Samsung Research</a></strong><br/>
       Machine Learning Engineer, Full-Time
     </td>
-    <td style="vertical-align:top; text-align:right; border:none; width:10%;">
+    <td style="vertical-align:top; text-align:right; border:none; width:25%;">
       <em>Seoul, South Korea</em><br/>
       Feb 2024 – Jul 2024
     </td>
@@ -294,11 +294,11 @@ Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution) \
     <td style="width:180px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/imgs/naver_logo.png" width="150">
     </td>
-    <td style="vertical-align:top; border:none; padding-left:16px; width:70%;">
+    <td style="vertical-align:top; border:none; padding-left:16px; width:60%;">
       <strong><a href="https://developers.naver.com/main/" style="color: #7289da; text-decoration: none;">NAVER</a></strong><br/>
       Software Developer Intern
     </td>
-    <td style="vertical-align:top; text-align:right; border:none; width:10%;">
+    <td style="vertical-align:top; text-align:right; border:none; width:25%;">
       <em>Seongnam, South Korea</em><br/>
       Sep 2020 – Feb 2021
     </td>
@@ -308,12 +308,12 @@ Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution) \
     <td style="width:180px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/imgs/kaist_logo.png" width="150">
     </td>
-    <td style="vertical-align:top; border:none; padding-left:16px; width:70%;">
+    <td style="vertical-align:top; border:none; padding-left:16px; width:60%;">
       <strong><a href="https://www.kixlab.org/" style="color: #7289da; text-decoration: none;">KIXLAB</a></strong><br/>
       Undergraduate Research Intern<br/>
       Advisor: Prof. <a href="https://juhokim.com/" style="color: #7289da; text-decoration: none;">Juho Kim</a>
     </td>
-    <td style="vertical-align:top; text-align:right; border:none; width:10%;">
+    <td style="vertical-align:top; text-align:right; border:none; width:25%;">
       <em>Daejeon, South Korea</em><br/>
       Jun 2020 – Aug 2020
     </td>
@@ -323,11 +323,11 @@ Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution) \
     <td style="width:180px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/imgs/h2k_logo.png" width="150">
     </td>
-    <td style="vertical-align:top; border:none; padding-left:16px; width:70%;">
+    <td style="vertical-align:top; border:none; padding-left:16px; width:60%;">
       <strong><a href="https://www.sojunghangeul.com/home/main" style="color: #7289da; text-decoration: none;">H2K</a></strong><br/>
       Software Developer Intern
     </td>
-    <td style="vertical-align:top; text-align:right; border:none; width:10%;">
+    <td style="vertical-align:top; text-align:right; border:none; width:25%;">
       <em>Daejeon, South Korea</em><br/>
       Jun 2019 – Dec 2019
     </td>
