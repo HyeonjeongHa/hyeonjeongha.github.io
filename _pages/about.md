@@ -261,11 +261,84 @@ Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution) \
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Work Experience
+<table style="border-collapse:collapse; border:none; width:100%;">
+  <tr style="border:none;">
+    <td style="width:180px; vertical-align:top; border:none; padding:8px;">
+      <img src="/assets/imgs/apple_logo.jpeg" width="150">
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:70%;">
+      <strong>Apple</strong><br/>
+      Machine Learning Research Intern
+    </td>
+    <td style="vertical-align:top; text-align:right; border:none; width:10%;">
+      <em>Seattle, WA, USA</em><br/>
+      May 2025 – Aug 2025
+    </td>
+  </tr>
+  
+  <tr style="border:none;">
+    <td style="width:180px; vertical-align:top; border:none; padding:8px 0;">
+      <img src="/assets/imgs/samsung_logo.png" width="150">
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:70%;">
+      <strong><a href="https://research.samsung.com/" style="color: #7289da; text-decoration: none;">Samsung Research</a></strong><br/>
+      Machine Learning Engineer, Full-Time
+    </td>
+    <td style="vertical-align:top; text-align:right; border:none; width:10%;">
+      <em>Seoul, South Korea</em><br/>
+      Feb 2024 – Jul 2024
+    </td>
+  </tr>
+
+  <tr style="border:none;">
+    <td style="width:180px; vertical-align:top; border:none; padding:8px 0;">
+      <img src="/assets/imgs/naver_logo.png" width="150">
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:70%;">
+      <strong><a href="https://developers.naver.com/main/" style="color: #7289da; text-decoration: none;">NAVER</a></strong><br/>
+      Software Developer Intern
+    </td>
+    <td style="vertical-align:top; text-align:right; border:none; width:10%;">
+      <em>Seongnam, South Korea</em><br/>
+      Sep 2020 – Feb 2021
+    </td>
+  </tr>
+
+  <tr style="border:none;">
+    <td style="width:180px; vertical-align:top; border:none; padding:8px 0;">
+      <img src="/assets/imgs/kaist_logo.png" width="150">
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:70%;">
+      <strong><a href="https://www.kixlab.org/" style="color: #7289da; text-decoration: none;">KIXLAB</a></strong><br/>
+      Undergraduate Research Intern<br/>
+      Advisor: Prof. <a href="https://juhokim.com/" style="color: #7289da; text-decoration: none;">Juho Kim</a>
+    </td>
+    <td style="vertical-align:top; text-align:right; border:none; width:10%;">
+      <em>Daejeon, South Korea</em><br/>
+      Jun 2020 – Aug 2020
+    </td>
+  </tr>
+
+  <tr style="border:none;">
+    <td style="width:180px; vertical-align:top; border:none; padding:8px 0;">
+      <img src="/assets/imgs/h2k_logo.png" width="150">
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:70%;">
+      <strong><a href="https://www.sojunghangeul.com/home/main" style="color: #7289da; text-decoration: none;">H2K</a></strong><br/>
+      Software Developer Intern
+    </td>
+    <td style="vertical-align:top; text-align:right; border:none; width:10%;">
+      <em>Daejeon, South Korea</em><br/>
+      Jun 2019 – Dec 2019
+    </td>
+  </tr>
+</table>
+<!--
 - *2025.05 - 2025.08*, Machine Learning Research Intern at **Apple**, AI/ML Data & Machine Learning Innovation team, Seattle, WA, USA.
 - *2024.02 - 2024.07*, Full-time Employee at <a href="https://research.samsung.com/" style="color: #7289da; text-decoration: none;">Samsung Research</a>, Language Intelligence Team, Seoul, South Korea. 
 - *2020.09 - 2021.02*, Developer Intern at <a href="https://developers.naver.com/main/" style="color: #7289da; text-decoration: none;">NAVER</a>, Seongnam, South Korea.
 - *2020.06 - 2020.08*, Undergraduate Research Intern at <a href="https://www.kixlab.org/" style="color: #7289da; text-decoration: none;">KIXLAB</a>, KAIST, Daejeon, South Korea. Prof: <a href="https://juhokim.com/" style="color: #7289da; text-decoration: none;">Juho Kim</a>
-- *2019.06 - 2019.12*, Developer Intern at <a href="https://www.sojunghangeul.com/home/main" style="color: #7289da; text-decoration: none;">H2K</a>, Daejeon, South Korea.
+- *2019.06 - 2019.12*, Developer Intern at <a href="https://www.sojunghangeul.com/home/main" style="color: #7289da; text-decoration: none;">H2K</a>, Daejeon, South Korea.--!>
 
 # 👩‍💻 Academic Service
 - *Reviewer*: ICML (2024, 2023), NeurIPS (2023)
