@@ -26,7 +26,7 @@ My primary research interest includes:
 
 
 # 🔥 News
-- *2025.11*: &nbsp;🤘🤘 Passed Qual Exam! Now, I'm a Ph.D Candidate!** 
+- *2025.11*: &nbsp;🤘🤘 Passed Qual Exam! Now, I'm a **Ph.D Candidate**!
 - *2025.09*: &nbsp;🎉🎉 One paper accepted to **NeurIPS 2025 (Spotlight)** 
 - *2025.08*: &nbsp;🎉🎉 Awarded the **Capital One Illinois Center for Generative AI Safety, Knowledge Systems, and Cyber Security (ASKS) Fellowship Program**!
 - *2025.05*: &nbsp;🎉🎉 One paper accepted to **ACL 2025** 
@@ -57,7 +57,7 @@ My primary research interest includes:
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>SYNTHIA: Novel Concept Design with Affordance Composition</strong><br/>
-      <a href="https://arxiv.org/abs/2505.20759">[paper]</a>
+      <a href="https://arxiv.org/abs/2502.17793">[paper]</a>
       <a href="https://synthia-uiuc.github.io/synthia.github.io/">[page]</a><br/>
       <strong>Hyeonjeong Ha</strong>*, Xiaomeng Jin*, Jeonghwan Kim, Jiateng Liu, Zhenhailong Wang,
       Khanh Duy Nguyen, Ansel Blume, Nanyun Peng, Kai-Wei Chang, Heng Ji
