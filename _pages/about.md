@@ -49,7 +49,7 @@ My primary research interest includes:
       Hyeonjeong Ha, Jinjin Ge, Bo Feng, Kaixin Ma, Gargi Chakraborty<br/>
       <span style="color:purple">UnderReview</span> 
     </td>
-  </tr
+  </tr>
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/imgs/partonomy_teaser.png" width="260">
