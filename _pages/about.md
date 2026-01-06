@@ -41,6 +41,17 @@ My primary research interest includes:
 <table style="border-collapse:collapse; border:none; width:100%;">
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <img src="/assets/imgs/narrative_teaser.png" width="260">
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+      <strong>NarrativeTrack: Evaluating Video Language Models Beyond the Frame</strong><br/>
+      <a href="https://arxiv.org/abs/2601.01095">[paper]</a><br/>
+      Hyeonjeong Ha, Jinjin Ge, Bo Feng, Kaixin Ma, Gargi Chakraborty<br/>
+      <span style="color:purple">UnderReview</span> 
+    </td>
+  </tr
+  <tr style="border:none;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/imgs/partonomy_teaser.png" width="260">
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
