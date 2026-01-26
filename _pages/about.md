@@ -26,6 +26,7 @@ My primary research interest includes:
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 Four paper accepted to **ICLR 2026**, one paper accepted to **ACM 2026**!
 - *2025.11*: &nbsp;🤘🤘 Passed Qual Exam! Now, I'm a **Ph.D Candidate**!
 - *2025.09*: &nbsp;🎉🎉 One paper accepted to **NeurIPS 2025 (Spotlight)** 
 - *2025.08*: &nbsp;🎉🎉 Awarded the **Capital One Illinois Center for Generative AI Safety, Knowledge Systems, and Cyber Security (ASKS) Fellowship Program**!
@@ -53,32 +54,6 @@ My primary research interest includes:
   </tr>
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
-      <img src="/assets/imgs/partonomy_teaser.png" width="260">
-    </td>
-    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
-      <strong>PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding</strong><br/>
-      <a href="https://arxiv.org/abs/2505.20759">[paper]</a><br/>
-      Ansel Blume, Jeonghwan Kim, <strong>Hyeonjeong Ha</strong>, Elen Chatikyan, Xiaomeng Jin, 
-      Khanh Duy Nguyen, Nanyun Peng, Kai-Wei Chang, Derek Hoiem, Heng Ji<br/>
-      <span style="color:purple">NeurIPS 2025</span> <span style="color:red">(Spotlight)</span>
-    </td>
-  </tr>
-  <tr style="border:none;">
-    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
-      <img src="/assets/imgs/synthia_teaser.png" width="260">
-    </td>
-    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
-      <strong>SYNTHIA: Novel Concept Design with Affordance Composition</strong><br/>
-      <a href="https://arxiv.org/abs/2502.17793">[paper]</a>
-      <a href="https://synthia-uiuc.github.io/synthia.github.io/">[page]</a><br/>
-      <strong>Hyeonjeong Ha</strong>*, Xiaomeng Jin*, Jeonghwan Kim, Jiateng Liu, Zhenhailong Wang,
-      Khanh Duy Nguyen, Ansel Blume, Nanyun Peng, Kai-Wei Chang, Heng Ji
-      <em>(* equal contribution)</em><br/>
-      <span style="color:purple">ACL 2025 (Main)</span>
-    </td>
-  </tr>
-  <tr style="border:none;">
-    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/imgs/mmpoisonrag_teaser.png" width="260">
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
@@ -101,7 +76,7 @@ My primary research interest includes:
       Qiusi Zhan*, <strong>Hyeonjeong Ha</strong>*, Rui Yang, Sirui Xu, Hanyang Chen, Liangyan Gui, 
       Yu-Xiong Wang, Huan Zhang, Heng Ji, Daniel Kang 
       <em>(* equal contribution)</em><br/>
-      <span style="color:purple">UnderReview</span>
+      <span style="color:purple">ICLR 2026</span>
     </td>
   </tr>
   <tr style="border:none;">
@@ -115,7 +90,7 @@ My primary research interest includes:
       Zhenhailong Wang, Xuehang Guo, Sofia Stoica, Haiyang Xu, Hongru Wang, 
       <strong>Hyeonjeong Ha</strong>, Xiusi Chen, Yangyi Chen, Ming Yan, Fei Huang, Heng Ji 
       <em>(* equal contribution)</em><br/>
-      <span style="color:purple">UnderReview</span>
+      <span style="color:purple">ICLR 2026</span>
     </td>
   </tr>
   <tr style="border:none;">
@@ -128,7 +103,7 @@ My primary research interest includes:
       <a href="https://alexiglad.github.io/blog/2025/ebt/">[blog]</a><br/>
       Alexi Gladstone, Ganesh Nanduru, Md Mofijul Islam, Peixuan Han, <strong>Hyeonjeong Ha</strong>, 
       Aman Chadha, Yilun Du, Heng Ji, Jundong Li, Tariq Iqbal<br/>
-      <span style="color:purple">UnderReview</span>
+      <span style="color:purple">ICLR 2026</span>
     </td>
   </tr>
   <tr style="border:none;">
@@ -140,7 +115,7 @@ My primary research interest includes:
       <a href="https://arxiv.org/html/2510.09741v1">[paper]</a><br/>
       Dwip Dalal, Gautam Vashishtha, Utkarsh Mishra, Jeonghwan Kim, Madhav Kanda, 
       <strong>Hyeonjeong Ha</strong>, Svetlana Lazebnik, Heng Ji, Unnat Jain<br/>
-      <span style="color:purple">UnderReview</span>
+      <span style="color:purple">ICLR 2026</span>
     </td>
   </tr>
   <tr style="border:none;">
@@ -153,6 +128,32 @@ My primary research interest includes:
       Nimet Beyza Bozdag, Shuhaib Mehri, Xiaocheng Yang, <strong>Hyeonjeong Ha</strong>, Zirui Cheng, 
       Esin Durmus, Jiaxuan You, Heng Ji, Gokhan Tur, Dilek Hakkani-Tür<br/>
       <span style="color:purple">UnderReview</span>
+    </td>
+  </tr>
+  <tr style="border:none;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <img src="/assets/imgs/partonomy_teaser.png" width="260">
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+      <strong>PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding</strong><br/>
+      <a href="https://arxiv.org/abs/2505.20759">[paper]</a><br/>
+      Ansel Blume, Jeonghwan Kim, <strong>Hyeonjeong Ha</strong>, Elen Chatikyan, Xiaomeng Jin, 
+      Khanh Duy Nguyen, Nanyun Peng, Kai-Wei Chang, Derek Hoiem, Heng Ji<br/>
+      <span style="color:purple">NeurIPS 2025</span> <span style="color:red">(Spotlight)</span>
+    </td>
+  </tr>
+  <tr style="border:none;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <img src="/assets/imgs/synthia_teaser.png" width="260">
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+      <strong>SYNTHIA: Novel Concept Design with Affordance Composition</strong><br/>
+      <a href="https://arxiv.org/abs/2502.17793">[paper]</a>
+      <a href="https://synthia-uiuc.github.io/synthia.github.io/">[page]</a><br/>
+      <strong>Hyeonjeong Ha</strong>*, Xiaomeng Jin*, Jeonghwan Kim, Jiateng Liu, Zhenhailong Wang,
+      Khanh Duy Nguyen, Ansel Blume, Nanyun Peng, Kai-Wei Chang, Heng Ji
+      <em>(* equal contribution)</em><br/>
+      <span style="color:purple">ACL 2025 (Main)</span>
     </td>
   </tr>
   <tr style="border:none;">
