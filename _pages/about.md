@@ -127,7 +127,7 @@ My primary research interest includes:
       <a href="https://www.arxiv.org/abs/2505.07775">[paper]</a><br/>
       Nimet Beyza Bozdag, Shuhaib Mehri, Xiaocheng Yang, <strong>Hyeonjeong Ha</strong>, Zirui Cheng, 
       Esin Durmus, Jiaxuan You, Heng Ji, Gokhan Tur, Dilek Hakkani-Tür<br/>
-      <span style="color:purple">UnderReview</span>
+      <span style="color:purple">ACM 2026, Computing Surveys</span>
     </td>
   </tr>
   <tr style="border:none;">
