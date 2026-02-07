@@ -26,7 +26,7 @@ My primary research interest includes:
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Four papers accepted to **ICLR 2026**, one paper accepted to **ACM 2026**!
+- *2026.01*: &nbsp;🎉🎉 Four papers accepted to **ICLR 2026** (3 Poster, 1 Oral), one paper accepted to **ACM 2026**!
 - *2025.11*: &nbsp;🤘🤘 Passed Qual Exam! Now, I'm a **Ph.D Candidate**!
 - *2025.09*: &nbsp;🎉🎉 One paper accepted to **NeurIPS 2025 (Spotlight)** 
 - *2025.08*: &nbsp;🎉🎉 Awarded the **Capital One Illinois Center for Generative AI Safety, Knowledge Systems, and Cyber Security (ASKS) Fellowship Program**!
