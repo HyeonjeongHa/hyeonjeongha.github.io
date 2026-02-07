@@ -103,7 +103,7 @@ My primary research interest includes:
       <a href="https://alexiglad.github.io/blog/2025/ebt/">[blog]</a><br/>
       Alexi Gladstone, Ganesh Nanduru, Md Mofijul Islam, Peixuan Han, <strong>Hyeonjeong Ha</strong>, 
       Aman Chadha, Yilun Du, Heng Ji, Jundong Li, Tariq Iqbal<br/>
-      <span style="color:purple">ICLR 2026</span>
+      <span style="color:purple">ICLR 2026</span> <span style="color:red">(Oral)</span>
     </td>
   </tr>
   <tr style="border:none;">
