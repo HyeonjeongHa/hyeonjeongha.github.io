@@ -48,7 +48,7 @@ My primary research interest includes:
       <strong>NarrativeTrack: Evaluating Video Language Models Beyond the Frame</strong><br/>
       <a href="https://arxiv.org/abs/2601.01095">[paper]</a>  
       <a href="https://machinelearning.apple.com/research/narrativetrack">[Apple Blog]</a><br/>
-      Hyeonjeong Ha, Jinjin Ge, Bo Feng, Kaixin Ma, Gargi Chakraborty<br/>
+      <strong>Hyeonjeong Ha</strong>, Jinjin Ge, Bo Feng, Kaixin Ma, Gargi Chakraborty<br/>
       <span style="color:purple">UnderReview</span> 
     </td>
   </tr>
