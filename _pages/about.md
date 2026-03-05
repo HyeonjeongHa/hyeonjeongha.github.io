@@ -63,7 +63,7 @@ My primary research interest includes:
       <strong>Hyeonjeong Ha</strong>*, Qiusi Zhan*, Jeonghwan Kim, Dimitrios Bralios, Saikrishna Sanniboina, 
       Nanyun Peng, Kai-wei Chang, Heng Ji 
       <em>(* equal contribution)</em><br/>
-      <span style="color:purple">ICLR 2026 Workshop on Principled Design for Trustworthy AI - Interpretability, Robustness, and Safety across Modalities</span>
+      <span style="color:purple">ICLR 2026 Workshop on Principled Design for Trustworthy AI</span>
     </td>
   </tr>
   <tr style="border:none;">
