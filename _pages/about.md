@@ -26,6 +26,7 @@ My primary research interest includes:
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 One paper accepted to **ACL 2026 Main**!
 - *2026.02*: &nbsp;🎉🎉 One paper accepted to **ICLR 2026 Workshop**!
 - *2026.01*: &nbsp;🎉🎉 Four papers accepted to **ICLR 2026** (3 Poster, 1 Oral), one paper accepted to **ACM 2026**!
 - *2025.11*: &nbsp;🤘🤘 Passed Qual Exam! Now, I'm a **Ph.D Candidate**!
@@ -63,6 +64,7 @@ My primary research interest includes:
       <strong>Hyeonjeong Ha</strong>*, Qiusi Zhan*, Jeonghwan Kim, Dimitrios Bralios, Saikrishna Sanniboina, 
       Nanyun Peng, Kai-wei Chang, Heng Ji 
       <em>(* equal contribution)</em><br/>
+      <span style="color:purple">ACL 2026 Main</span><br/>
       <span style="color:purple">ICLR 2026 Workshop on Principled Design for Trustworthy AI</span>
     </td>
   </tr>
