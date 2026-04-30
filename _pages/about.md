@@ -26,6 +26,7 @@ My primary research interest includes:
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 One paper accepted to **ICML 2026 (Spotlight)**!
 - *2026.04*: &nbsp;🎉🎉 One paper accepted to **ACL 2026 Main**!
 - *2026.02*: &nbsp;🎉🎉 One paper accepted to **ICLR 2026 Workshop**!
 - *2026.01*: &nbsp;🎉🎉 Four papers accepted to **ICLR 2026** (3 Poster, 1 Oral), one paper accepted to **ACM 2026**!
@@ -52,6 +53,17 @@ My primary research interest includes:
       <a href="https://machinelearning.apple.com/research/narrativetrack">[Apple Blog]</a><br/>
       <strong>Hyeonjeong Ha</strong>, Jinjin Ge, Bo Feng, Kaixin Ma, Gargi Chakraborty<br/>
       <span style="color:purple">UnderReview</span> 
+    </td>
+  </tr>
+  <tr style="border:none;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <img src="/assets/imgs/mmpoisonrag_teaser.png" width="260">
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+      <strong>Securing Multimodal AI through Internal Information Decomposition</strong><br/>
+      <a href="https://arxiv.org/abs/2502.17832">[paper]</a><br/>
+      Jehyeok Yeon, <strong>Hyeonjeong Ha</strong>, Qiusi Zhan, Heng Ji 
+      <span style="color:purple">ICML 2026</span> <span style="color:red">(Spotlight)</span>
     </td>
   </tr>
   <tr style="border:none;">
