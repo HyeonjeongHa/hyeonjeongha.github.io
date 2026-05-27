@@ -45,7 +45,7 @@ My primary research interest includes:
 <table style="border-collapse:collapse; border:none; width:100%;">
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
-      <img src="/assets/imgs/narrative_teaser.png" width="260">
+      <img src="/assets/imgs/mm-creativitybench.png" width="260">
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>Advancing Affordance-Grounded Creative Tool Use in Large Multimodal Models</strong><br/>
@@ -58,7 +58,7 @@ My primary research interest includes:
   
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
-      <img src="/assets/imgs/narrative_teaser.png" width="260">
+      <img src="/assets/imgs/creativitybench.png" width="260">
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>CreativityBench: Evaluating Creative Reasoning via Affordance-Based Tool Repurposing</strong><br/>
