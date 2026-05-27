@@ -48,6 +48,32 @@ My primary research interest includes:
       <img src="/assets/imgs/narrative_teaser.png" width="260">
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+      <strong>Advancing Affordance-Grounded Creative Tool Use in Large Multimodal Models</strong><br/>
+      <a href="https://arxiv.org/abs/2605.26396">[paper]</a>  
+      <a href="https://creativitybench.github.io/mm-creativitybench.github.io/">[Project Page]</a><br/>
+      Cheng Qian*, <strong>Hyeonjeong Ha*</strong>, Jiayu Liu, Jeonghwan Kim, Emre Can Acikgoz, Bingxuan Li, Kunlun Zhu, Jiateng Liu, Aditi Tiwari, Zhenhailong Wang, Xiusi Chen, Heng Ji<br/>
+      <span style="color:purple">UnderReview</span> 
+    </td>
+  </tr>
+  
+  <tr style="border:none;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <img src="/assets/imgs/narrative_teaser.png" width="260">
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+      <strong>CreativityBench: Evaluating Creative Reasoning via Affordance-Based Tool Repurposing</strong><br/>
+      <a href="https://arxiv.org/abs/2605.02910">[paper]</a>  
+      <a href="https://creativitybench.github.io">[Project Page]</a><br/>
+      Cheng Qian*, <strong>Hyeonjeong Ha*</strong>, Jiayu Liu, Bingxiang He, Jeonghwan Kim, Jiateng Liu, Bingxuan Li, Aditi Tiwari, Dwip Dalal, Zhenhailong Wang, Xiusi Chen, Mahdi Namazifar, Yunzhu Li Heng Ji <br/>
+      <span style="color:purple">UnderReview</span> 
+    </td>
+  </tr>
+  
+  <tr style="border:none;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <img src="/assets/imgs/narrative_teaser.png" width="260">
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>NarrativeTrack: Evaluating Video Language Models Beyond the Frame</strong><br/>
       <a href="https://arxiv.org/abs/2601.01095">[paper]</a>  
       <a href="https://machinelearning.apple.com/research/narrativetrack">[Apple Blog]</a><br/>
