@@ -42,7 +42,20 @@ My primary research interest includes:
 
 # 📝 Publications 
 
+
 <table style="border-collapse:collapse; border:none; width:100%;">
+  <tr style="border:none;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <img src="/assets/imgs/creativitybench.png" width="260">
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+      <strong>MemGuard: Preventing Memory Contamination in Long-Term Memory-Augmented Large Language Models</strong><br/>
+      <a href="https://arxiv.org/abs/2605.28009">[paper]</a>  
+      <strong>Hyeonjeong Ha</strong>, Jeonghwan Kim, Cheng Qian, Jiayu Liu, William M. Campbell, Yue Wu, Yuji Zhang, Kathleen McKeown, Dilek Hakkani-Tur, Heng Ji<br/>
+      <span style="color:purple">UnderReview</span> 
+    </td>
+  </tr>
+  
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/imgs/mm-creativitybench.png" width="260">
@@ -51,7 +64,8 @@ My primary research interest includes:
       <strong>Advancing Affordance-Grounded Creative Tool Use in Large Multimodal Models</strong><br/>
       <a href="https://arxiv.org/abs/2605.26396">[paper]</a>  
       <a href="https://creativitybench.github.io/mm-creativitybench.github.io/">[Project Page]</a><br/>
-      Cheng Qian*, <strong>Hyeonjeong Ha*</strong>, Jiayu Liu, Jeonghwan Kim, Emre Can Acikgoz, Bingxuan Li, Kunlun Zhu, Jiateng Liu, Aditi Tiwari, Zhenhailong Wang, Xiusi Chen, Heng Ji<br/>
+      Cheng Qian*, <strong>Hyeonjeong Ha*</strong>, Jiayu Liu, Jeonghwan Kim, Emre Can Acikgoz, Bingxuan Li, Kunlun Zhu, Jiateng Liu, Aditi Tiwari, Zhenhailong Wang, Xiusi Chen, Heng Ji 
+      <em>(* equal contribution)</em><br/>
       <span style="color:purple">UnderReview</span> 
     </td>
   </tr>
@@ -64,11 +78,11 @@ My primary research interest includes:
       <strong>CreativityBench: Evaluating Creative Reasoning via Affordance-Based Tool Repurposing</strong><br/>
       <a href="https://arxiv.org/abs/2605.02910">[paper]</a>  
       <a href="https://creativitybench.github.io">[Project Page]</a><br/>
-      Cheng Qian*, <strong>Hyeonjeong Ha*</strong>, Jiayu Liu, Bingxiang He, Jeonghwan Kim, Jiateng Liu, Bingxuan Li, Aditi Tiwari, Dwip Dalal, Zhenhailong Wang, Xiusi Chen, Mahdi Namazifar, Yunzhu Li Heng Ji <br/>
+      Cheng Qian*, <strong>Hyeonjeong Ha*</strong>, Jiayu Liu, Bingxiang He, Jeonghwan Kim, Jiateng Liu, Bingxuan Li, Aditi Tiwari, Dwip Dalal, Zhenhailong Wang, Xiusi Chen, Mahdi Namazifar, Yunzhu Li Heng Ji 
+      <em>(* equal contribution)</em><br/>
       <span style="color:purple">UnderReview</span> 
     </td>
   </tr>
-  
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/imgs/narrative_teaser.png" width="260">
