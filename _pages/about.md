@@ -50,7 +50,7 @@ My primary research interest includes:
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>MemGuard: Preventing Memory Contamination in Long-Term Memory-Augmented Large Language Models</strong><br/>
-      <a href="https://arxiv.org/abs/2605.28009">[paper]</a>  
+      <a href="https://arxiv.org/abs/2605.28009">[paper]</a><br/>
       <strong>Hyeonjeong Ha</strong>, Jeonghwan Kim, Cheng Qian, Jiayu Liu, William M. Campbell, Yue Wu, Yuji Zhang, Kathleen McKeown, Dilek Hakkani-Tur, Heng Ji<br/>
       <span style="color:purple">UnderReview</span> 
     </td>
