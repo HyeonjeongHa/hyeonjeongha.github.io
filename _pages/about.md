@@ -333,7 +333,7 @@ Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution) \
 <table style="border-collapse:collapse; border:none; width:100%;">
   <tr style="border:none;">
     <td style="width:180px; vertical-align:top; border:none; padding:8px;">
-      <img src="/assets/imgs/apple_logo.jpeg" width="150">
+      <img src="/assets/imgs/Meta-Logo.png" width="150">
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:50%;">
       <strong>Meta</strong><br/>
