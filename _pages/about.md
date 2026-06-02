@@ -26,6 +26,7 @@ My primary research interest includes:
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Again Awarded the **Capital One Illinois Center for Generative AI Safety, Knowledge Systems, and Cyber Security (ASKS) Fellowship Program**!
 - *2026.04*: &nbsp;🎉🎉 One paper accepted to **ICML 2026 (Spotlight)**!
 - *2026.04*: &nbsp;🎉🎉 One paper accepted to **ACL 2026 Main**!
 - *2026.02*: &nbsp;🎉🎉 One paper accepted to **ICLR 2026 Workshop**!
@@ -330,6 +331,20 @@ Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution) \
 
 # 💻 Work Experience
 <table style="border-collapse:collapse; border:none; width:100%;">
+  <tr style="border:none;">
+    <td style="width:180px; vertical-align:top; border:none; padding:8px;">
+      <img src="/assets/imgs/apple_logo.jpeg" width="150">
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:50%;">
+      <strong>Meta</strong><br/>
+      Research Scientist Intern @ Meta Reality Labs
+    </td>
+    <td style="vertical-align:top; text-align:right; border:none; width:30%;">
+      <em>Redmond, WA, USA</em><br/>
+      May 2026 – Aug 2026
+    </td>
+  </tr>
+  
   <tr style="border:none;">
     <td style="width:180px; vertical-align:top; border:none; padding:8px;">
       <img src="/assets/imgs/apple_logo.jpeg" width="150">
