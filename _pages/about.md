@@ -19,10 +19,10 @@ redirect_from:
 
 I am a PhD student at <a href="https://blender.cs.illinois.edu/" style="color: #7289da; text-decoration: none;">Blender Lab</a> at University of Illinois, Urbana-Champaign (UIUC), currently advised by Prof. <a href="https://blender.cs.illinois.edu/hengji.html" style="color: #7289da; text-decoration: none;">Heng Ji</a>. I obtained my Master's from the Graduate School of AI at KAIST, under the supervision of Prof. <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a>. If you are interested in collaborating with me on research projects, please contact me! Here is my <a href="https://drive.google.com/file/d/1WPAKJlVjXd3UItwzdtuC9zdM2vN9e8K3/view?usp=sharing" style="color: #7289da; text-decoration:none">CV</a>.
 
-My primary research interest includes:
-- Visual Perception Capability of Multimodal Large Language Models (MLLMs)
-- Trustworthiness of MLLM-powered Framework (e.g., Embodied Agents, RAG)
-- Model Interpretability & Robustness
+My research aims to build creative, reliable, and trustworthy multimodal AI that can understand, reason over, and act upon complex real-world information. My primary research interest includes:
+- <strong>Creative and Adaptive Intelligence</strong>: Enabling foundation models to generate novel, useful, and context-aware solutions beyond memorized patterns (<a href="https://creativitybench.github.io">CreativityBench</a>, <a href="https://creativitybench.github.io/mm-creativitybench.github.io/">MM-CreativityBench</a>, <a href="https://synthia-uiuc.github.io/synthia.github.io/">SYNTHIA</a>).<br/>
+- <strong>Grounded Knowledge and Multimodal Reasoning</strong>: Developing models that integrate perception, external knowledge, memory, and feedback across diverse modalities and environments (<a href="https://arxiv.org/abs/2605.28009">MemGuard</a>, <a href="https://arxiv.org/abs/2601.01095">NarrativeTrack</a>) .<br/>
+- <strong>Reliable and Trustworthy Decision-Making</strong>: Improving robustness, interpretability, uncertainty awareness, and consistency so AI systems can act dependably in the real world (<a href="https://arxiv.org/abs/2502.17832">MM-PoisonRAG</a>, <a href="https://zqs1943.github.io/BEAT/">BEAT</a>, FlowGuard). 
 
 
 # 🔥 News
