@@ -26,6 +26,7 @@ My primary research interest includes:
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 One paper accepted to **ECCV 2026**!
 - *2026.06*: &nbsp;🎉🎉 Again Awarded the **Capital One Illinois Center for Generative AI Safety, Knowledge Systems, and Cyber Security (ASKS) Fellowship Program**!
 - *2026.04*: &nbsp;🎉🎉 One paper accepted to **ICML 2026 (Spotlight)**!
 - *2026.04*: &nbsp;🎉🎉 One paper accepted to **ACL 2026 Main**!
@@ -93,7 +94,7 @@ My primary research interest includes:
       <a href="https://arxiv.org/abs/2601.01095">[paper]</a>  
       <a href="https://machinelearning.apple.com/research/narrativetrack">[Apple Blog]</a><br/>
       <strong>Hyeonjeong Ha</strong>, Jinjin Ge, Bo Feng, Kaixin Ma, Gargi Chakraborty<br/>
-      <span style="color:purple">UnderReview</span> 
+      <span style="color:purple">ECCV 2026</span> 
     </td>
   </tr>
   <tr style="border:none;">
