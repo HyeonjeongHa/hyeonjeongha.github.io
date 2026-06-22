@@ -427,4 +427,4 @@ Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution) \
 
 
 # 👩‍💻 Academic Service
-- *Reviewer*: ICML (2024, 2023), NeurIPS (2023)
+- *Reviewer*: ECCV (2026), CVPR (2026), ICLR (2026), ICML (2025, 2024, 2023), NeurIPS (2026, 2023)
