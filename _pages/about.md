@@ -26,6 +26,7 @@ My research aims to build creative, reliable, and trustworthy multimodal AI that
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 One paper accepted to **COLM 2026**!
 - *2026.06*: &nbsp;🎉🎉 One paper accepted to **ECCV 2026**!
 - *2026.06*: &nbsp;🎉🎉 Again Awarded the **Capital One Illinois Center for Generative AI Safety, Knowledge Systems, and Cyber Security (ASKS) Fellowship Program**!
 - *2026.04*: &nbsp;🎉🎉 One paper accepted to **ICML 2026 (Spotlight)**!
@@ -82,7 +83,7 @@ My research aims to build creative, reliable, and trustworthy multimodal AI that
       <a href="https://creativitybench.github.io">[Project Page]</a><br/>
       Cheng Qian*, <strong>Hyeonjeong Ha*</strong>, Jiayu Liu, Bingxiang He, Jeonghwan Kim, Jiateng Liu, Bingxuan Li, Aditi Tiwari, Dwip Dalal, Zhenhailong Wang, Xiusi Chen, Mahdi Namazifar, Yunzhu Li Heng Ji 
       <em>(* equal contribution)</em><br/>
-      <span style="color:purple">UnderReview</span> 
+      <span style="color:purple">COLM 2026</span> 
     </td>
   </tr>
   <tr style="border:none;">
