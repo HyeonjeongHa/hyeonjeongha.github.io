@@ -26,11 +26,12 @@ My research aims to build creative, reliable, and trustworthy multimodal AI that
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 One paper accepted to **COLM 2026**!
-- *2026.06*: &nbsp;🎉🎉 One paper accepted to **ECCV 2026**!
+- *2026.07*: &nbsp;🎉🎉 Our <a href="https://arxiv.org/abs/2601.01095">NarrativeTrack</a> is selected as **ECCV 2026 Oral**!
+- *2026.07*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2605.02910">CreativityBench</a> is accepted to **COLM 2026**!
+- *2026.06*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2601.01095">NarrativeTrack</a> is accepted to **ECCV 2026**!
 - *2026.06*: &nbsp;🎉🎉 Again Awarded the **Capital One Illinois Center for Generative AI Safety, Knowledge Systems, and Cyber Security (ASKS) Fellowship Program**!
-- *2026.04*: &nbsp;🎉🎉 One paper accepted to **ICML 2026 (Spotlight)**!
-- *2026.04*: &nbsp;🎉🎉 One paper accepted to **ACL 2026 Main**!
+- *2026.04*: &nbsp;🎉🎉 FlowGuard is accepted to **ICML 2026 (Spotlight)**!
+- *2026.04*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2502.17832">MM-PoisonRAG</a> is accepted to **ACL 2026 Main**!
 - *2026.02*: &nbsp;🎉🎉 One paper accepted to **ICLR 2026 Workshop**!
 - *2026.01*: &nbsp;🎉🎉 Four papers accepted to **ICLR 2026** (3 Poster, 1 Oral), one paper accepted to **ACM 2026**!
 - *2025.11*: &nbsp;🤘🤘 Passed Qual Exam! Now, I'm a **Ph.D Candidate**!
