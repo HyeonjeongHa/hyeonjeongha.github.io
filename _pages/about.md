@@ -96,7 +96,7 @@ My research aims to build creative, reliable, and trustworthy multimodal AI that
       <a href="https://arxiv.org/abs/2601.01095">[paper]</a>  
       <a href="https://machinelearning.apple.com/research/narrativetrack">[Apple Blog]</a><br/>
       <strong>Hyeonjeong Ha</strong>, Jinjin Ge, Bo Feng, Kaixin Ma, Gargi Chakraborty<br/>
-      <span style="color:purple">ECCV 2026</span> 
+      <span style="color:purple">ECCV 2026</span> <span style="color:red">(Oral)</span>
     </td>
   </tr>
   <tr style="border:none;">
