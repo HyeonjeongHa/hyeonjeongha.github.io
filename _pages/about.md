@@ -26,7 +26,7 @@ My research aims to build creative, reliable, and trustworthy multimodal AI that
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 Our <a href="https://arxiv.org/abs/2601.01095">NarrativeTrack</a> is selected as **ECCV 2026 Oral**!
+- *2026.07*: &nbsp;🎉🎉 Our <a href="https://arxiv.org/abs/2601.01095">NarrativeTrack</a> is selected as **ECCV 2026 Spotlight**!
 - *2026.07*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2605.02910">CreativityBench</a> is accepted to **COLM 2026**!
 - *2026.06*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2601.01095">NarrativeTrack</a> is accepted to **ECCV 2026**!
 - *2026.06*: &nbsp;🎉🎉 Again Awarded the **Capital One Illinois Center for Generative AI Safety, Knowledge Systems, and Cyber Security (ASKS) Fellowship Program**!
@@ -96,7 +96,7 @@ My research aims to build creative, reliable, and trustworthy multimodal AI that
       <a href="https://arxiv.org/abs/2601.01095">[paper]</a>  
       <a href="https://machinelearning.apple.com/research/narrativetrack">[Apple Blog]</a><br/>
       <strong>Hyeonjeong Ha</strong>, Jinjin Ge, Bo Feng, Kaixin Ma, Gargi Chakraborty<br/>
-      <span style="color:purple">ECCV 2026</span> <span style="color:red">(Oral)</span>
+      <span style="color:purple">ECCV 2026</span> <span style="color:red">(Spotlight)</span>
     </td>
   </tr>
   <tr style="border:none;">
