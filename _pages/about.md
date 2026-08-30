@@ -26,9 +26,9 @@ My research aims to build creative, reliable, and trustworthy multimodal AI that
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2601.01095">NarrativeTrack</a> is selected as **ECCV 2026 Spotlight**!
+- *2026.07*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2605.28009">MemGuard</a> is accepted to **EMNLP 2026**!
 - *2026.07*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2605.02910">CreativityBench</a> is accepted to **COLM 2026**!
-- *2026.06*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2601.01095">NarrativeTrack</a> is accepted to **ECCV 2026**!
+- *2026.06*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2601.01095">NarrativeTrack</a> is accepted to **ECCV 2026 Spotlight**!
 - *2026.06*: &nbsp;🎉🎉 Again Awarded the **Capital One Illinois Center for Generative AI Safety, Knowledge Systems, and Cyber Security (ASKS) Fellowship Program**!
 - *2026.04*: &nbsp;🎉🎉 FlowGuard is accepted to **ICML 2026 (Spotlight)**!
 - *2026.04*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2502.17832">MM-PoisonRAG</a> is accepted to **ACL 2026 Main**!
@@ -48,17 +48,6 @@ My research aims to build creative, reliable, and trustworthy multimodal AI that
 
 
 <table style="border-collapse:collapse; border:none; width:100%;">
-  <tr style="border:none;">
-    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
-      <img src="/assets/imgs/memguard.png" width="260">
-    </td>
-    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
-      <strong>MemGuard: Preventing Memory Contamination in Long-Term Memory-Augmented Large Language Models</strong><br/>
-      <a href="https://arxiv.org/abs/2605.28009">[paper]</a><br/>
-      <strong>Hyeonjeong Ha</strong>, Jeonghwan Kim, Cheng Qian, Jiayu Liu, William M. Campbell, Yue Wu, Yuji Zhang, Kathleen McKeown, Dilek Hakkani-Tur, Heng Ji<br/>
-      <span style="color:purple">UnderReview</span> 
-    </td>
-  </tr>
   
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
@@ -71,6 +60,29 @@ My research aims to build creative, reliable, and trustworthy multimodal AI that
       Cheng Qian*, <strong>Hyeonjeong Ha*</strong>, Jiayu Liu, Jeonghwan Kim, Emre Can Acikgoz, Bingxuan Li, Kunlun Zhu, Jiateng Liu, Aditi Tiwari, Zhenhailong Wang, Xiusi Chen, Heng Ji 
       <em>(* equal contribution)</em><br/>
       <span style="color:purple">UnderReview</span> 
+    </td>
+  </tr>
+
+  <tr style="border:none;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <img src="/assets/imgs/memguard.png" width="260">
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+      <strong>MemGuard: Preventing Memory Contamination in Long-Term Memory-Augmented Large Language Models</strong><br/>
+      <a href="https://arxiv.org/abs/2605.28009">[paper]</a><br/>
+      <strong>Hyeonjeong Ha</strong>, Jeonghwan Kim, Cheng Qian, Jiayu Liu, William M. Campbell, Yue Wu, Yuji Zhang, Kathleen McKeown, Dilek Hakkani-Tur, Heng Ji<br/>
+      <span style="color:purple">EMNLP 2026 (Findings) </span> 
+    </td>
+  </tr>
+
+  <tr style="border:none;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <img src="/assets/imgs/memguard.png" width="260">
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+      <strong>Evaluating the Hidden Costs of Personalization in Large Language Models</strong><br/>
+      Yumeng Wang, Yuchen Wu, Cheng Qian, Zhiyuan Fan, <strong>Hyeonjeong Ha</strong>, Shujin Wu, Jiayu Liu, Heng Ji, Ge Wang <br/>
+      <span style="color:purple">EMNLP 2026 (Main) </span> 
     </td>
   </tr>
   
