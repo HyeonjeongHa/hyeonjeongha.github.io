@@ -107,3 +107,165 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Section heading with a button on the right ("Selected Publications ... All Publications >>") */
+.section-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1em;
+    flex-wrap: wrap;
+
+    h1 {
+        margin-bottom: 0;
+    }
+}
+
+.all-pubs-link {
+    flex: none;
+    font-size: .8em;
+    font-weight: 600;
+    white-space: nowrap;
+    padding: .35em .9em;
+    border: 1px solid #d8dbe2;
+    border-radius: 999px;
+    color: #7289da;
+    text-decoration: none;
+
+    &:hover {
+        background-color: #f4f6fb;
+        border-color: #7289da;
+        text-decoration: none;
+    }
+}
+
+/* /publications/ — full list with a sticky year index on the right */
+.pub-layout {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5em;
+}
+
+.pub-main {
+    flex: 1 1 auto;
+    min-width: 0;   /* lets the table shrink instead of overflowing the flex row */
+}
+
+.pub-year-heading {
+    /* the masthead is position:sticky, so anchor jumps need to clear it */
+    scroll-margin-top: 3em;
+    margin-top: 1.2em;
+    padding-bottom: .2em;
+    border-bottom: 1px solid #efefef;
+}
+
+.pub-year-nav {
+    flex: 0 0 5.5em;
+    position: sticky;
+    top: 4em;
+    font-size: .85em;
+
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        border-left: 2px solid #efefef;
+    }
+
+    li {
+        margin: 0;
+    }
+
+    a {
+        display: block;
+        padding: .3em .8em;
+        color: #8a8f98;
+        text-decoration: none;
+        border-left: 2px solid transparent;
+        margin-left: -2px;
+
+        &:hover {
+            color: #7289da;
+            text-decoration: none;
+        }
+
+        &.is-active {
+            color: #7289da;
+            font-weight: 700;
+            border-left-color: #7289da;
+        }
+    }
+}
+
+/* Narrow screens: the index becomes a horizontal strip above the list */
+@media (max-width: 800px) {
+    .pub-layout {
+        display: block;
+    }
+
+    .pub-year-nav {
+        position: static;
+        margin-bottom: 1em;
+
+        ul {
+            display: flex;
+            flex-wrap: wrap;
+            gap: .3em;
+            border-left: 0;
+        }
+
+        a {
+            border: 1px solid #efefef;
+            border-radius: 999px;
+            padding: .2em .8em;
+            margin-left: 0;
+        }
+
+        a.is-active {
+            border-color: #7289da;
+        }
+    }
+}
+
+/* Scrollable News list (see the .news-scroll wrapper in _pages/about.md) */
+.news-scroll {
+    max-height: 20em;
+    overflow-y: auto;
+    padding: .35em 1.1em .35em .25em;
+    border: 1px #efefef solid;
+    border-radius: 4px;
+    /* macOS hides overlay scrollbars until you scroll, which leaves no hint
+       that the list continues. Styling ::-webkit-scrollbar opts Safari and
+       Chrome into a classic always-visible bar. Deliberately no
+       scrollbar-width/scrollbar-color here: setting either standard property
+       makes WebKit ignore the rules below and revert to overlay scrollbars.
+       Firefox has no ::-webkit- support but always shows a scrollbar anyway. */
+
+    ul {
+        margin-top: .4em;
+        margin-bottom: .4em;
+    }
+
+    li:last-child {
+        margin-bottom: 0;
+    }
+
+    /* tabindex="0" makes this keyboard-scrollable; show where focus landed */
+    &:focus-visible {
+        outline: 2px solid #7289da;
+        outline-offset: 2px;
+    }
+
+    &::-webkit-scrollbar {
+        width: 8px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background: #c7ccd8;
+        border-radius: 4px;
+    }
+
+    &::-webkit-scrollbar-track {
+        background: transparent;
+    }
+}

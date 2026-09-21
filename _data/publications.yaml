@@ -1,77 +1,188 @@
-papers:
-  - title: "PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding"
-    image: "/assets/publications/2025_partonomy/image.png"
-    paper_pdf: "https://arxiv.org/pdf/2505.20759"
-    authors: "Ansel Blume, Jeonghwan Kim, <b>Hyeonjeong Ha</b>, Elen Chatikyan, Xiaomeng Jin, Khanh Duy Nguyen, Nanyun Peng, Kai-Wei Chang, Derek Hoiem, Heng Ji"
-    venue: "NeurIPS 2025 (Spotlight)"
-    selected: y
+# Single source of truth for both publication lists:
+#   - the homepage (_pages/about.md) renders entries with `selected: true`
+#   - /publications/ (_pages/publications.md) renders everything, grouped by `year`
+#
+# `year` is a string so Liquid's `where` filter matches it reliably. Use
+# "Preprint" for work that is not yet tied to a venue year; the year index
+# sorts it first, then the numbered years descending.
+#
+# `authors` and `venues[].name` are emitted as raw HTML, so inline tags are fine.
 
-  - title: "SYNTHIA: Novel Concept Design with Affordance Composition"
-    image: "/assets/publications/2025_search_and_detect/image.png"
-    paper_pdf: "https://arxiv.org/abs/2502.17793"
-    authors: "<b>Hyeonjeong Ha</b> *, Xiaomeng Jin *, Jeonghwan Kim, Jiateng Liu, Zhenhailong Wang, Khanh Duy Nguyen, Ansel Blume, Nanyun Peng, Kai-wei Chang, Heng Ji"
-    venue: "ACL 2025 Main"
-    selected: y
+papers:
+  - title: "Advancing Affordance-Grounded Creative Tool Use in Large Multimodal Models"
+    image: /assets/imgs/mm-creativitybench.png
+    year: "Preprint"
+    selected: false
+    links:
+      - { label: "paper", url: "https://arxiv.org/abs/2605.26396" }
+      - { label: "Project Page", url: "https://creativitybench.github.io/mm-creativitybench.github.io/" }
+    authors: "Cheng Qian*, <strong>Hyeonjeong Ha*</strong>, Jiayu Liu, Jeonghwan Kim, Emre Can Acikgoz, Bingxuan Li, Kunlun Zhu, Jiateng Liu, Aditi Tiwari, Zhenhailong Wang, Xiusi Chen, Heng Ji <em>(* equal contribution)</em>"
+    venues:
+      - { name: "UnderReview" }
+
+  - title: "MemGuard: Preventing Memory Contamination in Long-Term Memory-Augmented Large Language Models"
+    image: /assets/imgs/memguard.png
+    year: "2026"
+    selected: true
+    links:
+      - { label: "paper", url: "https://arxiv.org/abs/2605.28009" }
+      - { label: "Project Page", url: "https://hyeonjeongha.github.io/MemGuard/" }
+    authors: "<strong>Hyeonjeong Ha</strong>, Jeonghwan Kim, Cheng Qian, Jiayu Liu, William M. Campbell, Yue Wu, Yuji Zhang, Kathleen McKeown, Dilek Hakkani-Tur, Heng Ji"
+    venues:
+      - { name: "EMNLP 2026 (Findings)" }
+
+  - title: "Evaluating the Hidden Costs of Personalization in Large Language Models"
+    image: /assets/imgs/memguard.png
+    year: "2026"
+    selected: false
+    links: []
+    authors: "Yumeng Wang, Yuchen Wu, Cheng Qian, Zhiyuan Fan, <strong>Hyeonjeong Ha</strong>, Shujin Wu, Jiayu Liu, Heng Ji, Ge Wang"
+    venues:
+      - { name: "EMNLP 2026 (Main)" }
+
+  - title: "CreativityBench: Evaluating Creative Reasoning via Affordance-Based Tool Repurposing"
+    image: /assets/imgs/creativitybench.png
+    year: "2026"
+    selected: true
+    links:
+      - { label: "paper", url: "https://arxiv.org/abs/2605.02910" }
+      - { label: "Project Page", url: "https://creativitybench.github.io" }
+    authors: "Cheng Qian*, <strong>Hyeonjeong Ha*</strong>, Jiayu Liu, Bingxiang He, Jeonghwan Kim, Jiateng Liu, Bingxuan Li, Aditi Tiwari, Dwip Dalal, Zhenhailong Wang, Xiusi Chen, Mahdi Namazifar, Yunzhu Li, Heng Ji <em>(* equal contribution)</em>"
+    venues:
+      - { name: "COLM 2026" }
+
+  - title: "NarrativeTrack: Evaluating Video Language Models Beyond the Frame"
+    image: /assets/imgs/narrative_teaser.png
+    year: "2026"
+    selected: true
+    links:
+      - { label: "paper", url: "https://arxiv.org/abs/2601.01095" }
+      - { label: "Apple Blog", url: "https://machinelearning.apple.com/research/narrativetrack" }
+    authors: "<strong>Hyeonjeong Ha</strong>, Jinjin Ge, Bo Feng, Kaixin Ma, Gargi Chakraborty"
+    venues:
+      - { name: "ECCV 2026", award: "(Spotlight)" }
+
+  - title: "Securing Multimodal AI through Internal Information Decomposition"
+    image: /assets/imgs/flowguard.png
+    year: "2026"
+    selected: true
+    links:
+      - { label: "paper", url: "https://arxiv.org/abs/2607.21600" }
+    authors: "Jehyeok Yeon, <strong>Hyeonjeong Ha</strong>, Qiusi Zhan, Heng Ji"
+    venues:
+      - { name: "ICML 2026", award: "(Spotlight)" }
 
   - title: "MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Poisoning Attacks"
-    image: "/assets/publications/2025_synthia/image.png"
-    paper_pdf: "https://arxiv.org/abs/2502.17832"
-    authors: "<b>Hyeonjeong Ha</b> *, Qiusi Zhan *, Jeonghwan Kim, Dimitrios Bralios, Saikrishna Sanniboina, Nanyun Peng, Kai-wei Chang, Heng Ji"
-    venue: "UnderReview"
-    selected: y
+    image: /assets/imgs/mmpoisonrag_teaser.png
+    year: "2026"
+    selected: true
+    links:
+      - { label: "paper", url: "https://arxiv.org/abs/2502.17832" }
+    authors: "<strong>Hyeonjeong Ha</strong>*, Qiusi Zhan*, Jeonghwan Kim, Dimitrios Bralios, Saikrishna Sanniboina, Nanyun Peng, Kai-wei Chang, Heng Ji <em>(* equal contribution)</em>"
+    venues:
+      - { name: "ACL 2026 Main" }
+      - { name: "ICLR 2026 Workshop on Principled Design for Trustworthy AI" }
 
   - title: "Visual Backdoor Attacks on MLLM Embodied Decision Making via Contrastive Trigger Learning"
-    image: "/assets/publications/2025_infogent/image.png"
-    paper_pdf: "https://arxiv.org/abs/2510.27623"
-    authors: "Qiusi Zhan *, <b>Hyeonjeong Ha</b> *, Rui Yang, Sirui Xu, Hanyang Chen, Liangyan Gui, Yu-Xiong Wang, Huan Zhang, Heng Ji, Daniel Kang"
-    venue: "UnderReview"
-    selected: y
+    image: /assets/imgs/beat_teaser.png
+    year: "2026"
+    selected: true
+    links:
+      - { label: "paper", url: "https://arxiv.org/abs/2510.27623" }
+      - { label: "page", url: "https://zqs1943.github.io/BEAT/" }
+    authors: "Qiusi Zhan*, <strong>Hyeonjeong Ha</strong>*, Rui Yang, Sirui Xu, Hanyang Chen, Liangyan Gui, Yu-Xiong Wang, Huan Zhang, Heng Ji, Daniel Kang <em>(* equal contribution)</em>"
+    venues:
+      - { name: "ICLR 2026" }
 
   - title: "PAPO: Perception-Aware Policy Optimization for Multimodal Reasoning"
-    image: "/assets/publications/2025_aloe/image.png"
-    paper_pdf: "https://arxiv.org/abs/2507.06448"
-    authors: "Zhenhailong Wang, Xuehang Guo, Sofia Stoica, Haiyang Xu, Hongru Wang, <b>Hyeonjeong Ha</b>, Xiusi Chen, Yangyi Chen, Ming Yan, Fei Huang, Heng Ji"
-    venue: "UnderReview"
-    selected: y
+    image: /assets/imgs/papo_teaser.png
+    year: "2026"
+    selected: false
+    links:
+      - { label: "paper", url: "https://arxiv.org/abs/2507.06448" }
+      - { label: "page", url: "https://mikewangwzhl.github.io/PAPO/" }
+    authors: "Zhenhailong Wang, Xuehang Guo, Sofia Stoica, Haiyang Xu, Hongru Wang, <strong>Hyeonjeong Ha</strong>, Xiusi Chen, Yangyi Chen, Ming Yan, Fei Huang, Heng Ji"
+    venues:
+      - { name: "ICLR 2026" }
 
   - title: "Energy-Based Transformers are Scalable Learners and Thinkers"
-    image: "/assets/publications/2024_finer/image.png"
-    paper_pdf: "https://arxiv.org/abs/2507.02092"
-    authors: "Alexi Gladstone, Ganesh Nanduru, Md Mofijul Islam, Peixuan Han, <b>Hyeonjeong Ha</b>, Aman Chadha, Yilun Du, Heng Ji, Jundong Li, Tariq Iqbal"
-    venue: "UnderReview"
-    selected: y
+    image: /assets/imgs/ebwm_teaser.png
+    year: "2026"
+    selected: false
+    links:
+      - { label: "paper", url: "https://arxiv.org/abs/2507.02092" }
+      - { label: "blog", url: "https://alexiglad.github.io/blog/2025/ebt/" }
+    authors: "Alexi Gladstone, Ganesh Nanduru, Md Mofijul Islam, Peixuan Han, <strong>Hyeonjeong Ha</strong>, Aman Chadha, Yilun Du, Heng Ji, Jundong Li, Tariq Iqbal"
+    venues:
+      - { name: "ICLR 2026", award: "(Oral)" }
 
   - title: "Constructive Distortion: Multimodal LLMs with Test-Time Image Warping"
-    image: "/assets/publications/2024_whysogullible/image.png"
-    paper_pdf: "https://arxiv.org/html/2510.09741v1"
-    authors: "Dwip Dalal, Gautam Vashishtha, Utkarsh Mishra, Jeonghwan Kim, Madhav Kanda, <b>Hyeonjeong Ha</b>, Svetlana Lazebnik, Heng Ji, Unnat Jain"
-    venue: "UnderReview"
-    selected: y
+    image: /assets/imgs/imgwarp_teaser.png
+    year: "2026"
+    selected: false
+    links:
+      - { label: "paper", url: "https://arxiv.org/html/2510.09741v1" }
+    authors: "Dwip Dalal, Gautam Vashishtha, Utkarsh Mishra, Jeonghwan Kim, Madhav Kanda, <strong>Hyeonjeong Ha</strong>, Svetlana Lazebnik, Heng Ji, Unnat Jain"
+    venues:
+      - { name: "ICLR 2026" }
 
   - title: "Must Read: A Systematic Survey of Computational Persuasion"
-    image: "/assets/publications/2024_armada/image.png"
-    paper_pdf: "https://www.arxiv.org/abs/2505.07775"
-    authors: "Nimet Beyza Bozdag, Shuhaib Mehri, Xiaocheng Yang, <b>Hyeonjeong Ha</b>, Zirui Cheng, Esin Durmus, Jiaxuan You, Heng Ji, Gokhan Tur, Dilek Hakkani-Tür"
-    venue: "UnderReview"
-    selected: y
+    image: /assets/imgs/mustread_teaser.png
+    year: "2026"
+    selected: false
+    links:
+      - { label: "paper", url: "https://www.arxiv.org/abs/2505.07775" }
+    authors: "Nimet Beyza Bozdag, Shuhaib Mehri, Xiaocheng Yang, <strong>Hyeonjeong Ha</strong>, Zirui Cheng, Esin Durmus, Jiaxuan You, Heng Ji, Gokhan Tur, Dilek Hakkani-Tür"
+    venues:
+      - { name: "ACM 2026, Computing Surveys" }
+
+  - title: "PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding"
+    image: /assets/imgs/partonomy_teaser.png
+    year: "2025"
+    selected: false
+    links:
+      - { label: "paper", url: "https://arxiv.org/abs/2505.20759" }
+    authors: "Ansel Blume, Jeonghwan Kim, <strong>Hyeonjeong Ha</strong>, Elen Chatikyan, Xiaomeng Jin, Khanh Duy Nguyen, Nanyun Peng, Kai-Wei Chang, Derek Hoiem, Heng Ji"
+    venues:
+      - { name: "NeurIPS 2025", award: "(Spotlight)" }
+
+  - title: "SYNTHIA: Novel Concept Design with Affordance Composition"
+    image: /assets/imgs/synthia_teaser.png
+    year: "2025"
+    selected: true
+    links:
+      - { label: "paper", url: "https://arxiv.org/abs/2502.17793" }
+      - { label: "page", url: "https://synthia-uiuc.github.io/synthia.github.io/" }
+    authors: "<strong>Hyeonjeong Ha</strong>*, Xiaomeng Jin*, Jeonghwan Kim, Jiateng Liu, Zhenhailong Wang, Khanh Duy Nguyen, Ansel Blume, Nanyun Peng, Kai-Wei Chang, Heng Ji <em>(* equal contribution)</em>"
+    venues:
+      - { name: "ACL 2025 (Main)" }
 
   - title: "Generalizable Lightweight Proxy for Robust NAS against Diverse Perturbations"
-    image: "/assets/publications/2023_fineprompt/image.png"
-    paper_pdf: "https://arxiv.org/abs/2306.05031"
-    authors: "<b>Hyeonjeong Ha</b> *, Minseon Kim *, Sung Ju Hwang "
-    venue: "NeurIPS 2023, ICML @ 2023 The 2ND New Frontiers in Adversarial Machine Learning Workshop"
-    selected: y
+    image: /assets/imgs/ronas_teaser.png
+    year: "2023"
+    selected: false
+    links:
+      - { label: "paper", url: "https://arxiv.org/abs/2306.05031" }
+    authors: "<strong>Hyeonjeong Ha</strong>*, Minseon Kim*, Sung Ju Hwang <em>(* equal contribution)</em>"
+    venues:
+      - { name: "NeurIPS 2023" }
 
   - title: "Effective Targeted Attacks for Adversarial Self-Supervised Learning"
-    image: "/assets/publications/2022_graph_infused_transformer/image.png"
-    paper_pdf: "https://arxiv.org/abs/2210.10482"
-    authors: "Minseon Kim, <b>Hyeonjeong Ha</b>, Sooel Son, Sung Ju Hwang"
-    venue: "NeurIPS 2023"
-    selected: y
+    image: /assets/imgs/tasl_teaser.png
+    year: "2023"
+    selected: false
+    links:
+      - { label: "paper", url: "https://arxiv.org/abs/2210.10482" }
+    authors: "Minseon Kim, <strong>Hyeonjeong Ha</strong>, Sooel Son, Sung Ju Hwang"
+    venues:
+      - { name: "NeurIPS 2023" }
 
   - title: "Few-shot Transferable Robust Representation Learning via Bilevel Attacks"
-    image: "/assets/publications/2022_exploiting_numerical-contextual/image.png"
-    authors: "Minseon Kim *, <b>Hyeonjeong Ha</b> *, Sung Ju Hwang"
-    venue: "NeurIPS 2022 @ ML Safety Workshop"
-    paper_pdf: "https://arxiv.org/abs/2210.10485"
-    selected: y
+    image: /assets/imgs/marvl_teaser.png
+    year: "2022"
+    selected: false
+    links:
+      - { label: "paper", url: "https://arxiv.org/abs/2210.10485" }
+    authors: "Minseon Kim*, <strong>Hyeonjeong Ha</strong>*, Sung Ju Hwang <em>(* equal contribution)</em>"
+    venues:
+      - { name: "NeurIPS 2022 ML Safety Workshop" }

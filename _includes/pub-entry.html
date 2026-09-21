@@ -1,0 +1,24 @@
+{%- comment -%}
+One publication row. Used by both the homepage (selected only) and /publications/
+(everything, grouped by year), so the two lists can never drift apart.
+
+Usage: {% include pub-entry.html paper=p %}
+
+`authors` and `venues[].name` come from _data/publications.yaml and are emitted as
+raw HTML on purpose — they carry <strong>/<em> markup.
+{%- endcomment -%}
+<tr style="border:none;">
+  <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+    <img src="{{ include.paper.image }}" width="260" alt="{{ include.paper.title | escape }}">
+  </td>
+  <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+    <strong>{{ include.paper.title }}</strong><br/>
+    {%- if include.paper.links and include.paper.links.size > 0 %}
+    {% for l in include.paper.links %}<a href="{{ l.url }}">[{{ l.label }}]</a> {% endfor %}<br/>
+    {%- endif %}
+    {{ include.paper.authors }}<br/>
+    {% for v in include.paper.venues -%}
+    <span style="color:purple">{{ v.name }}</span>{% if v.award %} <span style="color:red">{{ v.award }}</span>{% endif %}{% unless forloop.last %}<br/>{% endunless %}
+    {%- endfor %}
+  </td>
+</tr>
