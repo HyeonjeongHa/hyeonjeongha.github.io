@@ -112,8 +112,8 @@ h1:before, .anchor:before {
 .section-head {
     display: flex;
     align-items: baseline;
-    justify-content: space-between;
-    gap: 1em;
+    justify-content: flex-start;   /* button sits beside the title, not pushed to the far edge */
+    gap: .9em;
     flex-wrap: wrap;
 
     h1 {
@@ -149,6 +149,14 @@ h1:before, .anchor:before {
 .pub-main {
     flex: 1 1 auto;
     min-width: 0;   /* lets the table shrink instead of overflowing the flex row */
+
+    /* the rows carry a hard width="260" on the thumbnails; without this the
+       table cannot shrink to fit the narrower column left by the year index
+       and the whole layout overflows sideways */
+    td img {
+        max-width: 100%;
+        height: auto;
+    }
 }
 
 .pub-year-heading {
