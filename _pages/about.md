@@ -142,7 +142,7 @@ Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution) \
 <table style="border-collapse:collapse; border:none; width:100%;">
   <tr style="border:none;">
     <td style="width:180px; vertical-align:top; border:none; padding:8px;">
-      <img src="/assets/imgs/Meta-Logo.png" width="150">
+      <img src="/assets/imgs/Meta-Logo.png" class="work-logo">
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:50%;">
       <strong>Meta</strong><br/>
@@ -156,7 +156,7 @@ Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution) \
   
   <tr style="border:none;">
     <td style="width:180px; vertical-align:top; border:none; padding:8px;">
-      <img src="/assets/imgs/apple_logo.jpeg" width="150">
+      <img src="/assets/imgs/apple_logo.jpeg" class="work-logo">
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:50%;">
       <strong>Apple</strong><br/>
@@ -170,7 +170,7 @@ Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution) \
   
   <tr style="border:none;">
     <td style="width:180px; vertical-align:top; border:none; padding:8px 0;">
-      <img src="/assets/imgs/samsung_logo.png" width="150">
+      <img src="/assets/imgs/samsung_logo.png" class="work-logo">
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:50%;">
       <strong><a href="https://research.samsung.com/" style="color: #7289da; text-decoration: none;">Samsung Research</a></strong><br/>
@@ -184,7 +184,7 @@ Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution) \
 
   <tr style="border:none;">
     <td style="width:180px; vertical-align:top; border:none; padding:8px 0;">
-      <img src="/assets/imgs/naver_logo.png" width="150">
+      <img src="/assets/imgs/naver_logo.png" class="work-logo">
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:50%;">
       <strong><a href="https://developers.naver.com/main/" style="color: #7289da; text-decoration: none;">NAVER</a></strong><br/>
@@ -198,7 +198,7 @@ Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution) \
 
   <tr style="border:none;">
     <td style="width:180px; vertical-align:top; border:none; padding:8px 0;">
-      <img src="/assets/imgs/kaist_logo.png" width="150">
+      <img src="/assets/imgs/kaist_logo.png" class="work-logo">
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:50%;">
       <strong><a href="https://www.kixlab.org/" style="color: #7289da; text-decoration: none;">KIXLAB</a></strong><br/>
@@ -213,7 +213,7 @@ Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution) \
 
   <tr style="border:none;">
     <td style="width:180px; vertical-align:top; border:none; padding:8px 0;">
-      <img src="/assets/imgs/h2k_logo.png" width="150">
+      <img src="/assets/imgs/h2k_logo.png" class="work-logo">
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:50%;">
       <strong><a href="https://www.sojunghangeul.com/home/main" style="color: #7289da; text-decoration: none;">H2K</a></strong><br/>

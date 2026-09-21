@@ -32,10 +32,11 @@ papers:
       - { name: "EMNLP 2026 (Findings)" }
 
   - title: "Evaluating the Hidden Costs of Personalization in Large Language Models"
-    image: /assets/imgs/memguard.png
+    image: /assets/imgs/prisk_teaser.png
     year: "2026"
     selected: false
-    links: []
+    links:
+      - { label: "paper", url: "https://arxiv.org/abs/2608.28833" }
     authors: "Yumeng Wang, Yuchen Wu, Cheng Qian, Zhiyuan Fan, <strong>Hyeonjeong Ha</strong>, Shujin Wu, Jiayu Liu, Heng Ji, Ge Wang"
     venues:
       - { name: "EMNLP 2026 (Main)" }

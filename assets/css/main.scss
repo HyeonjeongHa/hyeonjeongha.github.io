@@ -108,6 +108,18 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+/* Work Experience logos.
+   These were all width:150, but the source files have different aspect ratios,
+   so they rendered at wildly different heights — the square Apple logo came out
+   150px tall against Meta's 84px. Pinning the height instead normalises them.
+   84px is exactly what the Meta logo rendered at before, so it is unchanged. */
+.work-logo {
+    height: 84px;
+    width: auto;
+    max-width: 165px;   /* Samsung is the widest at ~154px; keeps it inside the 180px cell */
+    object-fit: contain;
+}
+
 /* Section heading with a button on the right ("Selected Publications ... All Publications >>") */
 .section-head {
     display: flex;
