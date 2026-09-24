@@ -28,7 +28,7 @@ My research aims to build creative, reliable, and trustworthy multimodal AI that
 # 🔥 News
 
 <div class="news-scroll" markdown="1" role="region" aria-label="News" tabindex="0">
-
+- *2026.09*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2605.26396">MM-CreativityBench</a>, Mixture-of-Layers are accepted to **EMNLP 2026**!
 - *2026.07*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2605.28009">MemGuard</a> is accepted to **EMNLP 2026**!
 - *2026.07*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2605.02910">CreativityBench</a> is accepted to **COLM 2026**!
 - *2026.06*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2601.01095">NarrativeTrack</a> is accepted to **ECCV 2026 Spotlight**!
