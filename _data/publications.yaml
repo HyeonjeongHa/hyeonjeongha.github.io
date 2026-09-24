@@ -11,14 +11,22 @@
 papers:
   - title: "Advancing Affordance-Grounded Creative Tool Use in Large Multimodal Models"
     image: /assets/imgs/mm-creativitybench.png
-    year: "Preprint"
-    selected: false
+    year: "2026"
+    selected: true
     links:
       - { label: "paper", url: "https://arxiv.org/abs/2605.26396" }
       - { label: "Project Page", url: "https://creativitybench.github.io/mm-creativitybench.github.io/" }
     authors: "Cheng Qian*, <strong>Hyeonjeong Ha*</strong>, Jiayu Liu, Jeonghwan Kim, Emre Can Acikgoz, Bingxuan Li, Kunlun Zhu, Jiateng Liu, Aditi Tiwari, Zhenhailong Wang, Xiusi Chen, Heng Ji <em>(* equal contribution)</em>"
     venues:
-      - { name: "UnderReview" }
+      - { name: "NeurIPS 2026" }
+
+  - title: "Mixture of Layers: Adaptive Representations for Visual Reasoning"
+    image: /assets/imgs/mm-creativitybench.png
+    year: "2026"
+    selected: false
+    authors: "Jeonghwan Kim*, Sofia Stoica*, Jiwan Chung, Ansel Blume, <strong>Hyeonjeong Ha*</strong>, Zhenhailong Wang, Xin Luna Dong, Heng Ji <em>(* equal contribution)</em>"
+    venues:
+      - { name: "NeurIPS 2026" }
 
   - title: "MemGuard: Preventing Memory Contamination in Long-Term Memory-Augmented Large Language Models"
     image: /assets/imgs/memguard.png
