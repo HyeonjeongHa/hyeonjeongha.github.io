@@ -27,6 +27,17 @@ papers:
     authors: "Jeonghwan Kim*, Sofia Stoica*, Jiwan Chung, Ansel Blume, <strong>Hyeonjeong Ha*</strong>, Zhenhailong Wang, Xin Luna Dong, Heng Ji <em>(* equal contribution)</em>"
     venues:
       - { name: "NeurIPS 2026" }
+      
+  - title: "Trimming the Long-Tail of Visual World Modeling Evaluation"
+    image: /assets/imgs/mm-creativitybench.png
+    year: "2026"
+    selected: true
+    links:
+      - { label: "paper", url: "https://arxiv.org/abs/2606.24256" }
+      - { label: "Project Page", url: "https://tailor-bench.github.io" }
+    authors: "Bingxuan Li, Yining Hong, Cheng Qian, <strong>Hyeonjeong Ha*</strong>, Jiateng Liu, Zhenhailong Wang, Yue Guo, Yunzhu Li, Heng Ji"
+    venues:
+      - { name: "NeurIPS 2026" }
 
   - title: "MemGuard: Preventing Memory Contamination in Long-Term Memory-Augmented Large Language Models"
     image: /assets/imgs/memguard.png
