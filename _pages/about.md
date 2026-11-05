@@ -133,9 +133,8 @@ Minseon Kim *, **Hyeonjeong Ha** *, Sung Ju Hwang (\*: equal contribution) \
 - *2022.02 - 2024.02*, M.S. in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">KAIST</a>.
 - *2017.02 - 2022.02*, B.S. in Computer Science (major) and Bio & Brain Engineering (minor), <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">KAIST</a>.
 
-<!--# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
+# 💬 Invited Talks
+- *2026.10*, Trustworthy Language Model Agents for High-Stakes Industry Applications, EMNLP 2026 Birds of the Feather
 
 # 💻 Work Experience
 <table style="border-collapse:collapse; border:none; width:100%;">
